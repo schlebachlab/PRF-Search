@@ -1,0 +1,2 @@
+Peptide	Prev AA	Next AA	Start	End	Peptide Length	Charges	Probability	Spectral Count	Intensity	Match Type	Assigned Modifications	Observed Modifications	Protein	Protein ID	Entry Name	Gene	Protein Description	Mapped Genes	Mapped Proteins
+DRHYCGKCCLTYCFNKPEDK	F	-	137	156	20	4,5	0.9256	1	5.2814848E8	MS/MS	13C(57.0215),5C(57.0215),8C(57.0215),9C(57.0215)		sp|P62979|RS27A_HUMAN	P62979	RS27A_HUMAN	RPS27A	Ubiquitin-40S ribosomal protein S27a		

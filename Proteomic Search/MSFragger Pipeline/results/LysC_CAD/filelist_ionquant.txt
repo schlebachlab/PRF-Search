@@ -1,0 +1,8 @@
+flag	value
+--psm	GM12878_LysC_HCD/psm.tsv
+--psm	HUVEC_LysC_HCD/psm.tsv
+--psm	HeLa_LysC_HCD/psm.tsv
+--psm	HepG2_LysC_HCD/psm.tsv
+--psm	K562_LysC_HCD/psm.tsv
+--psm	hESC_LysC_HCD/psm.tsv
+--specdir	/scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/first_pass/LysC_CAD/LysC_CAD_23_1_results

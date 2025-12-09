@@ -1,0 +1,73 @@
+time="01:49:12" level=info msg="Executing Filter  v5.1.2"
+time="01:49:12" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/GM12878_AspN_HCD"
+time="01:49:12" level=info msg="Processing peptide identification files"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_9_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_19_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_13_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_18_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_30_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_1_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_17_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_25_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_14_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_22_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_18_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_23_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_26_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_1_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_33_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_24_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_31_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_14_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_16_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_28_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_10_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_12_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_20_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_29_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_11_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_2_140826064350_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_17_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_4_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_12_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_34_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_27_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_16_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_21_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_10_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_6_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_5_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_15_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_35_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_20_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_8_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_3_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_32_sub.pep.xml"
+time="01:49:12" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_7_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_26_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_27_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_7_sub.pep.xml"
+time="01:49:12" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/AspN_CAD/AspN_CAD_2pass_results/HeLa_AspN_HCD/interact-HeLaS3_AspN_35_sub.pep.xml"
+time="01:49:12" level=info msg="1+ Charge profile" decoy=0 target=0
+time="01:49:12" level=info msg="2+ Charge profile" decoy=15 target=55
+time="01:49:12" level=info msg="3+ Charge profile" decoy=9 target=46
+time="01:49:12" level=info msg="4+ Charge profile" decoy=4 target=24
+time="01:49:12" level=info msg="5+ Charge profile" decoy=1 target=16
+time="01:49:12" level=info msg="6+ Charge profile" decoy=2 target=14
+time="01:49:12" level=info msg="Database search results" ions=144 peptides=130 psms=192
+time="01:49:12" level=info msg="Converged to 0.00 % FDR with 12 PSMs" decoy=0 threshold=0.959388 total=12
+time="01:49:12" level=info msg="Converged to 0.00 % FDR with 9 Peptides" decoy=0 threshold=0.959388 total=9
+time="01:49:12" level=info msg="Converged to 0.00 % FDR with 10 Ions" decoy=0 threshold=0.959388 total=10
+time="01:49:12" level=info msg="Protein inference results" decoy=167 target=355
+time="01:49:12" level=info msg="Converged to 0.00 % FDR with 19 Proteins" decoy=0 threshold=0.9584 total=19
+time="01:49:12" level=info msg="Applying sequential FDR estimation" ions=10 peptides=9 psms=12
+time="01:49:12" level=info msg="Converged to 0.00 % FDR with 11 PSMs" decoy=0 threshold=0.961352 total=11
+time="01:49:12" level=info msg="Converged to 0.00 % FDR with 8 Peptides" decoy=0 threshold=0.961352 total=8
+time="01:49:12" level=info msg="Converged to 0.00 % FDR with 9 Ions" decoy=0 threshold=0.961352 total=9
+time="01:49:12" level=info msg="Post processing identifications"
+time="01:49:12" level=info msg="Assigning protein identifications to layers"
+time="01:49:13" level=info msg="Processing protein inference"
+time="01:49:13" level=info msg="Synchronizing PSMs and proteins"
+time="01:49:13" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=9 peptides=8 proteins=7 psms=11
+time="01:49:13" level=info msg=Saving
+time="01:49:13" level=info msg=Done

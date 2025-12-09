@@ -1,0 +1,53 @@
+time="23:56:37" level=info msg="Executing Filter  v5.1.2"
+time="23:56:37" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/GM12878_Chymo_ETD"
+time="23:56:37" level=info msg="Processing peptide identification files"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo16_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo10_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo9_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo1_Plus2SA_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo13_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo6_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo1_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo17_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo11_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo12_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo7_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo21_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo14_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo23_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo18_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo15_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo25_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo2_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo3_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo1_Plus2SA_140716211504_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo24_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo5_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo20_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo4_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo22_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo8_140717172415_sub.pep.xml"
+time="23:56:37" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_ETD/Chymo_ETD_2pass_results/hESC_Chymo_ETD/interact-ETD_chymo19_sub.pep.xml"
+time="23:56:38" level=info msg="1+ Charge profile" decoy=0 target=0
+time="23:56:38" level=info msg="2+ Charge profile" decoy=56 target=277
+time="23:56:38" level=info msg="3+ Charge profile" decoy=45 target=122
+time="23:56:38" level=info msg="4+ Charge profile" decoy=30 target=40
+time="23:56:38" level=info msg="5+ Charge profile" decoy=5 target=42
+time="23:56:38" level=info msg="6+ Charge profile" decoy=5 target=16
+time="23:56:38" level=info msg="Database search results" ions=575 peptides=567 psms=638
+time="23:56:38" level=info msg="Converged to 0.00 % FDR with 11 PSMs" decoy=0 threshold=0.885317 total=11
+time="23:56:38" level=info msg="Converged to 0.00 % FDR with 6 Peptides" decoy=0 threshold=0.885317 total=6
+time="23:56:38" level=info msg="Converged to 0.00 % FDR with 7 Ions" decoy=0 threshold=0.885317 total=7
+time="23:56:38" level=info msg="Protein inference results" decoy=844 target=1594
+time="23:56:38" level=info msg="Converged to 0.00 % FDR with 10 Proteins" decoy=0 threshold=0.9463 total=10
+time="23:56:38" level=info msg="Applying sequential FDR estimation" ions=3 peptides=2 psms=7
+time="23:56:38" level=info msg="Converged to 0.00 % FDR with 6 PSMs" decoy=0 threshold=0.924382 total=6
+time="23:56:38" level=info msg="Converged to 0.00 % FDR with 1 Peptides" decoy=0 threshold=0.992681 total=1
+time="23:56:38" level=info msg="Converged to 0.00 % FDR with 2 Ions" decoy=0 threshold=0.989495 total=2
+time="23:56:38" level=info msg="Post processing identifications"
+time="23:56:38" level=info msg="Assigning protein identifications to layers"
+time="23:56:38" level=info msg="Processing protein inference"
+time="23:56:38" level=info msg="Synchronizing PSMs and proteins"
+time="23:56:38" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=2 peptides=1 proteins=2 psms=6
+time="23:56:38" level=info msg=Saving
+time="23:56:38" level=info msg=Done

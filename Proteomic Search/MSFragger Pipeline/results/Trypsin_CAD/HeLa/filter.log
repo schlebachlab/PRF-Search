@@ -1,0 +1,61 @@
+time="14:00:05" level=info msg="Executing Filter  v5.1.2"
+time="14:00:05" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/GM12878"
+time="14:00:05" level=info msg="Processing peptide identification files"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_13_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_11_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_18_140824160614_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_32_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_12_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_14_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_19_140824180249_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_23_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_1_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_34_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_28_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_22_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_5_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_25_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_9_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_26_140824140939_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_15_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_33_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_16_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_21_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_30_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_10_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_4_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_6_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_35_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_31_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_3_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_29_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_24_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_17_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_20_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_2_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_7_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_8_sub.pep.xml"
+time="14:00:05" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Trypsin_CAD_percweights/Trypsin_CAD_2pass_results_01fdr/HeLa/interact-HeLaS3_trypsin_27_sub.pep.xml"
+time="14:00:07" level=info msg="1+ Charge profile" decoy=0 target=0
+time="14:00:07" level=info msg="2+ Charge profile" decoy=160 target=679
+time="14:00:07" level=info msg="3+ Charge profile" decoy=100 target=411
+time="14:00:07" level=info msg="4+ Charge profile" decoy=39 target=117
+time="14:00:07" level=info msg="5+ Charge profile" decoy=8 target=25
+time="14:00:07" level=info msg="6+ Charge profile" decoy=4 target=7
+time="14:00:07" level=info msg="Database search results" ions=1306 peptides=1257 psms=1576
+time="14:00:07" level=info msg="Converged to 0.61 % FDR with 165 PSMs" decoy=1 threshold=0.95326 total=166
+time="14:00:07" level=info msg="Converged to 0.91 % FDR with 110 Peptides" decoy=1 threshold=0.950422 total=111
+time="14:00:07" level=info msg="Converged to 0.81 % FDR with 124 Ions" decoy=1 threshold=0.950422 total=125
+time="14:00:07" level=info msg="Protein inference results" decoy=2289 target=3300
+time="14:00:07" level=info msg="Converged to 0.54 % FDR with 184 Proteins" decoy=2 threshold=0.9812 total=186
+time="14:00:07" level=info msg="Applying sequential FDR estimation" ions=100 peptides=86 psms=143
+time="14:00:07" level=info msg="Converged to 0.00 % FDR with 142 PSMs" decoy=0 threshold=0.956288 total=142
+time="14:00:07" level=info msg="Converged to 0.00 % FDR with 85 Peptides" decoy=0 threshold=0.959922 total=85
+time="14:00:07" level=info msg="Converged to 0.00 % FDR with 99 Ions" decoy=0 threshold=0.959922 total=99
+time="14:00:07" level=info msg="Post processing identifications"
+time="14:00:07" level=info msg="Assigning protein identifications to layers"
+time="14:00:08" level=info msg="Processing protein inference"
+time="14:00:08" level=info msg="Synchronizing PSMs and proteins"
+time="14:00:08" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=99 peptides=85 proteins=62 psms=142
+time="14:00:08" level=info msg=Saving
+time="14:00:08" level=info msg=Done

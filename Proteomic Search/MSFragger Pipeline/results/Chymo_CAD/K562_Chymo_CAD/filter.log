@@ -1,0 +1,57 @@
+time="06:13:20" level=info msg="Executing Filter  v5.1.2"
+time="06:13:20" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_CAD"
+time="06:13:21" level=info msg="Processing peptide identification files"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr13_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr16_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr11_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr22_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr4_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr30_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr7_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr25_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr3_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr9_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr29_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr24_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr15_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr14_160219152231_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr12_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr18_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr1_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr8_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr20_160219232010_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr28_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr19_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr23_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr26_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr21_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr17_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr10_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr6_sub.pep.xml"
+time="06:13:21" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr28_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr5_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr27_sub.pep.xml"
+time="06:13:21" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/Chymo_CAD/Chymo_CAD_2pass_results/K562_Chymo_CAD/interact-20160214_alr_CompleteHumanProteome_K562_chymo_CAD_fr2_sub.pep.xml"
+time="06:13:23" level=info msg="1+ Charge profile" decoy=0 target=0
+time="06:13:23" level=info msg="2+ Charge profile" decoy=186 target=746
+time="06:13:23" level=info msg="3+ Charge profile" decoy=77 target=383
+time="06:13:23" level=info msg="4+ Charge profile" decoy=22 target=96
+time="06:13:23" level=info msg="5+ Charge profile" decoy=3 target=20
+time="06:13:23" level=info msg="6+ Charge profile" decoy=1 target=6
+time="06:13:23" level=info msg="Database search results" ions=1223 peptides=1175 psms=1550
+time="06:13:23" level=info msg="Converged to 0.00 % FDR with 30 PSMs" decoy=0 threshold=0.995404 total=30
+time="06:13:23" level=info msg="Converged to 0.00 % FDR with 21 Peptides" decoy=0 threshold=0.995404 total=21
+time="06:13:23" level=info msg="Converged to 0.00 % FDR with 23 Ions" decoy=0 threshold=0.995404 total=23
+time="06:13:23" level=info msg="Protein inference results" decoy=2149 target=3254
+time="06:13:23" level=info msg="Converged to 0.00 % FDR with 50 Proteins" decoy=1 threshold=0.9943 total=51
+time="06:13:23" level=info msg="Applying sequential FDR estimation" ions=23 peptides=21 psms=30
+time="06:13:23" level=info msg="Converged to 0.00 % FDR with 29 PSMs" decoy=0 threshold=0.996434 total=29
+time="06:13:23" level=info msg="Converged to 0.00 % FDR with 20 Peptides" decoy=0 threshold=0.996676 total=20
+time="06:13:23" level=info msg="Converged to 0.00 % FDR with 22 Ions" decoy=0 threshold=0.996434 total=22
+time="06:13:23" level=info msg="Post processing identifications"
+time="06:13:23" level=info msg="Assigning protein identifications to layers"
+time="06:13:23" level=info msg="Processing protein inference"
+time="06:13:23" level=info msg="Synchronizing PSMs and proteins"
+time="06:13:23" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=22 peptides=20 proteins=18 psms=29
+time="06:13:23" level=info msg=Saving
+time="06:13:23" level=info msg=Done

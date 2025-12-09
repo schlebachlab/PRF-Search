@@ -1,0 +1,62 @@
+time="16:06:43" level=info msg="Executing Filter  v5.1.2"
+time="16:06:43" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD"
+time="16:06:43" level=info msg="Processing peptide identification files"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_15_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_9_140916223826_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_19_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_17_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_13_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_1_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_12_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_21_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_16_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_18_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_27_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_30_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_26_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_20_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_22_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_14_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_24_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_34_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_29_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_28_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_25_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_6_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_11_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_7_140916184630_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_3_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_35_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_23_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_31_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_4_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_32_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_2_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_8_140916204231_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_5_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_33_sub.pep.xml"
+time="16:06:43" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_10_140917003415_sub.pep.xml"
+time="16:06:43" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_30_sub.pep.xml"
+time="16:06:44" level=info msg="1+ Charge profile" decoy=0 target=0
+time="16:06:44" level=info msg="2+ Charge profile" decoy=53 target=207
+time="16:06:44" level=info msg="3+ Charge profile" decoy=52 target=170
+time="16:06:44" level=info msg="4+ Charge profile" decoy=29 target=92
+time="16:06:44" level=info msg="5+ Charge profile" decoy=12 target=40
+time="16:06:44" level=info msg="6+ Charge profile" decoy=11 target=19
+time="16:06:44" level=info msg="Database search results" ions=569 peptides=534 psms=685
+time="16:06:44" level=info msg="Converged to 0.00 % FDR with 31 PSMs" decoy=0 threshold=0.971185 total=31
+time="16:06:44" level=info msg="Converged to 0.00 % FDR with 22 Peptides" decoy=0 threshold=0.972238 total=22
+time="16:06:44" level=info msg="Converged to 0.00 % FDR with 25 Ions" decoy=0 threshold=0.971185 total=25
+time="16:06:44" level=info msg="Protein inference results" decoy=613 target=1047
+time="16:06:44" level=info msg="Converged to 0.00 % FDR with 37 Proteins" decoy=0 threshold=0.9864 total=37
+time="16:06:44" level=info msg="Applying sequential FDR estimation" ions=18 peptides=16 psms=24
+time="16:06:44" level=info msg="Converged to 0.00 % FDR with 23 PSMs" decoy=0 threshold=0.97186 total=23
+time="16:06:44" level=info msg="Converged to 0.00 % FDR with 15 Peptides" decoy=0 threshold=0.987937 total=15
+time="16:06:44" level=info msg="Converged to 0.00 % FDR with 17 Ions" decoy=0 threshold=0.987707 total=17
+time="16:06:44" level=info msg="Post processing identifications"
+time="16:06:44" level=info msg="Assigning protein identifications to layers"
+time="16:06:44" level=info msg="Processing protein inference"
+time="16:06:44" level=info msg="Synchronizing PSMs and proteins"
+time="16:06:44" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=17 peptides=15 proteins=16 psms=23
+time="16:06:44" level=info msg=Saving
+time="16:06:44" level=info msg=Done

@@ -1,0 +1,66 @@
+time="00:36:51" level=info msg="Executing Filter  v5.1.2"
+time="00:36:51" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/GM12878_GluC_ETD"
+time="00:36:51" level=info msg="Processing peptide identification files"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr14_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr2_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr30_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr23_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr18_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr24_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr3_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr16_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr6_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr10_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr1_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr7_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr30_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr6_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr15_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr4_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr8_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr22_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr12_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr24_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr21_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr26_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr19_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr10_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr11_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr13_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr27_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr12_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr25_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr21_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr17_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr22_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr28_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr29_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr9_sub.pep.xml"
+time="00:36:51" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr5_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr7_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr1_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr9_sub.pep.xml"
+time="00:36:51" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_ETD/GluC_ETD_2pass_results/K562_GluC_ETD/interact-20160205_alr_CompleteHumanProteome_K562_GluC_ETD_fr5_sub.pep.xml"
+time="00:36:52" level=info msg="1+ Charge profile" decoy=0 target=0
+time="00:36:52" level=info msg="2+ Charge profile" decoy=15 target=64
+time="00:36:52" level=info msg="3+ Charge profile" decoy=21 target=50
+time="00:36:52" level=info msg="4+ Charge profile" decoy=20 target=36
+time="00:36:52" level=info msg="5+ Charge profile" decoy=5 target=21
+time="00:36:52" level=info msg="6+ Charge profile" decoy=3 target=6
+time="00:36:52" level=info msg="Database search results" ions=196 peptides=181 psms=241
+time="00:36:52" level=info msg="Converged to 0.00 % FDR with 8 PSMs" decoy=0 threshold=0.875099 total=8
+time="00:36:52" level=info msg="Converged to 0.00 % FDR with 3 Peptides" decoy=0 threshold=0.875099 total=3
+time="00:36:52" level=info msg="Converged to 0.00 % FDR with 4 Ions" decoy=0 threshold=0.875099 total=4
+time="00:36:52" level=info msg="Protein inference results" decoy=713 target=1081
+time="00:36:52" level=info msg="Converged to 0.00 % FDR with 11 Proteins" decoy=0 threshold=0.9596 total=11
+time="00:36:52" level=info msg="Applying sequential FDR estimation" ions=2 peptides=1 psms=6
+time="00:36:52" level=info msg="Converged to 0.00 % FDR with 5 PSMs" decoy=0 threshold=0.903103 total=5
+time="00:36:52" level=info msg="Converged to 0.00 % FDR with 0 Peptides" decoy=0 threshold=10 total=0
+time="00:36:52" level=info msg="Converged to 0.00 % FDR with 1 Ions" decoy=0 threshold=0.982787 total=1
+time="00:36:52" level=info msg="Post processing identifications"
+time="00:36:52" level=info msg="Assigning protein identifications to layers"
+time="00:36:52" level=info msg="Processing protein inference"
+time="00:36:52" level=info msg="Synchronizing PSMs and proteins"
+time="00:36:52" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=1 peptides=0 proteins=1 psms=5
+time="00:36:52" level=info msg=Saving
+time="00:36:52" level=info msg=Done

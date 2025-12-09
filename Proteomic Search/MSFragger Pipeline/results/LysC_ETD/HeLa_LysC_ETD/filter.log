@@ -1,0 +1,65 @@
+time="01:08:46" level=info msg="Executing Filter  v5.1.2"
+time="01:08:46" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/GM12878_LysC_ETD"
+time="01:08:46" level=info msg="Processing peptide identification files"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr9_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr12_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr13_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr11_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr10_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr27_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr35_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr14_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr3_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr34_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr15_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr6_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr28_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr4_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr7_sub.pep.xml"
+time="01:08:46" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr9_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr30_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr20_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr5_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr25_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr29_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr26_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr31_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr8_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr2_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr1_151024094400_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr22_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr24_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr32_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr21_sub.pep.xml"
+time="01:08:46" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr34_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr33_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr17_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr19_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr16_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr23_sub.pep.xml"
+time="01:08:46" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr18_sub.pep.xml"
+time="01:08:46" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr33_sub.pep.xml"
+time="01:08:46" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/LysC_ETD/LysC_ETD_2pass_results/HeLa_LysC_ETD/interact-20151023_alr_CompleteHumanProteome_HeLaS3_ETD_LysC_fr28_sub.pep.xml"
+time="01:08:47" level=info msg="1+ Charge profile" decoy=0 target=0
+time="01:08:47" level=info msg="2+ Charge profile" decoy=43 target=204
+time="01:08:47" level=info msg="3+ Charge profile" decoy=31 target=91
+time="01:08:47" level=info msg="4+ Charge profile" decoy=27 target=44
+time="01:08:47" level=info msg="5+ Charge profile" decoy=17 target=33
+time="01:08:47" level=info msg="6+ Charge profile" decoy=5 target=6
+time="01:08:47" level=info msg="Database search results" ions=402 peptides=390 psms=501
+time="01:08:47" level=info msg="Converged to 0.00 % FDR with 21 PSMs" decoy=0 threshold=0.918564 total=21
+time="01:08:47" level=info msg="Converged to 0.00 % FDR with 10 Peptides" decoy=0 threshold=0.91984 total=10
+time="01:08:47" level=info msg="Converged to 0.00 % FDR with 11 Ions" decoy=0 threshold=0.91984 total=11
+time="01:08:47" level=info msg="Protein inference results" decoy=523 target=775
+time="01:08:47" level=info msg="Converged to 0.00 % FDR with 22 Proteins" decoy=0 threshold=0.9613 total=22
+time="01:08:47" level=info msg="Applying sequential FDR estimation" ions=7 peptides=6 psms=17
+time="01:08:47" level=info msg="Converged to 0.00 % FDR with 16 PSMs" decoy=0 threshold=0.918785 total=16
+time="01:08:47" level=info msg="Converged to 0.00 % FDR with 5 Peptides" decoy=0 threshold=0.977234 total=5
+time="01:08:47" level=info msg="Converged to 0.00 % FDR with 6 Ions" decoy=0 threshold=0.965939 total=6
+time="01:08:47" level=info msg="Post processing identifications"
+time="01:08:47" level=info msg="Assigning protein identifications to layers"
+time="01:08:47" level=info msg="Processing protein inference"
+time="01:08:47" level=info msg="Synchronizing PSMs and proteins"
+time="01:08:47" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=6 peptides=5 proteins=6 psms=16
+time="01:08:47" level=info msg=Saving
+time="01:08:47" level=info msg=Done

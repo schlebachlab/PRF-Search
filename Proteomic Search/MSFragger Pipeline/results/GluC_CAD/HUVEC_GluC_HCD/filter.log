@@ -1,0 +1,71 @@
+time="03:23:08" level=info msg="Executing Filter  v5.1.2"
+time="03:23:08" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_CAD"
+time="03:23:08" level=info msg="Processing peptide identification files"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_17_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_5_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_23_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_34_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_30_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_13_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_32_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_31_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_15_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_7_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_35_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_25_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_1_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_24_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_9_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_11_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_26_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_27_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_13_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_12_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_30_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_31_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_29_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_10_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_2_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_20_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_21_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_22_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_3_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_14_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_16_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_24_160103061355_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_8_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_6_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_25_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_33_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_12_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_16_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_24_160103061355_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_28_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_4_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_18_sub.pep.xml"
+time="03:23:08" level=info msg="Parsing /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_19_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_21_sub.pep.xml"
+time="03:23:08" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/second_pass_completeseq/GluC_CAD/GluC_CAD_2pass_results/HUVEC_GluC_HCD/interact-20151220_alr_CompleteHumanProteome_HUVEC_HCD_GluC_10_sub.pep.xml"
+time="03:23:09" level=info msg="1+ Charge profile" decoy=0 target=0
+time="03:23:09" level=info msg="2+ Charge profile" decoy=53 target=200
+time="03:23:09" level=info msg="3+ Charge profile" decoy=39 target=129
+time="03:23:09" level=info msg="4+ Charge profile" decoy=10 target=41
+time="03:23:09" level=info msg="5+ Charge profile" decoy=3 target=3
+time="03:23:09" level=info msg="6+ Charge profile" decoy=3 target=5
+time="03:23:09" level=info msg="Database search results" ions=311 peptides=296 psms=493
+time="03:23:09" level=info msg="Converged to 0.00 % FDR with 12 PSMs" decoy=0 threshold=0.969142 total=12
+time="03:23:09" level=info msg="Converged to 0.00 % FDR with 7 Peptides" decoy=0 threshold=0.969142 total=7
+time="03:23:09" level=info msg="Converged to 0.00 % FDR with 9 Ions" decoy=0 threshold=0.969142 total=9
+time="03:23:09" level=info msg="Protein inference results" decoy=1100 target=1282
+time="03:23:09" level=info msg="Converged to 0.00 % FDR with 28 Proteins" decoy=0 threshold=0.9684 total=28
+time="03:23:09" level=info msg="Applying sequential FDR estimation" ions=9 peptides=7 psms=12
+time="03:23:09" level=info msg="Converged to 0.00 % FDR with 11 PSMs" decoy=0 threshold=0.969344 total=11
+time="03:23:09" level=info msg="Converged to 0.00 % FDR with 6 Peptides" decoy=0 threshold=0.969344 total=6
+time="03:23:09" level=info msg="Converged to 0.00 % FDR with 8 Ions" decoy=0 threshold=0.969344 total=8
+time="03:23:09" level=info msg="Post processing identifications"
+time="03:23:09" level=info msg="Assigning protein identifications to layers"
+time="03:23:09" level=info msg="Processing protein inference"
+time="03:23:10" level=info msg="Synchronizing PSMs and proteins"
+time="03:23:10" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=8 peptides=6 proteins=6 psms=11
+time="03:23:10" level=info msg=Saving
+time="03:23:10" level=info msg=Done

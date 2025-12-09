@@ -1,0 +1,2 @@
+>ensembl_transcript_id=ENST00000619898.5|ensembl_gene_id=ENSG00000114902.14|gene_name=SPCS1|tmd_start=45|tmd_end=64|tmd_seq=FGWTVYIVMAGFAFSCLLTL|ss_nuc_start=297|ss_seq=TAAAAAT|tmd-SS_gap_size=35|ensembl_uniprot_annotation=No_uniprot_annotation|blastp_uniprot_annotation=Q9Y6A9|transcript_canonical_status=Canonical|TMD_dG_app=-0.89|SS_dG_fs=1.26|stem_loop_presence=No|fs_type=dual_-1|frame_transition=101|terminal_stop_codon=yes
+MLEHLSSLPTQMDYKGQKLAEQMFQGIILFSAIVGFIYGYVAEQFGWTVYIVMAGFAFSCLLTLPPWPIYRRHPLKWLPVQESSTDDKKPGERKIKRHAKN

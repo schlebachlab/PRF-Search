@@ -1,0 +1,8 @@
+flag	value
+--psm	GM12878_GluC_ETD/psm.tsv
+--psm	HUVEC_GluC_ETD/psm.tsv
+--psm	HeLa_GluC_ETD/psm.tsv
+--psm	HepG2_GluC_ETD/psm.tsv
+--psm	K562_GluC_ETD/psm.tsv
+--psm	hESC_GluC_ETD/psm.tsv
+--specdir	/scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/first_pass/GluC_ETD/GluC_ETD_23_1_results

@@ -1,0 +1,11 @@
+Wrote 513 peptides to possible_frameshift_peptides_classed.tsv
+
+Peptide-set summary:
+------------------------------------
+frameshift_only                     :     14
+transitional_only                   :     17
+zero_frame_only                     :    462
+transitional_and_frameshift         :      0
+zero_frame_with_frameshift_stop_only:      7
+mixture_with_zero_frame             :     13
+not_found                           :      0

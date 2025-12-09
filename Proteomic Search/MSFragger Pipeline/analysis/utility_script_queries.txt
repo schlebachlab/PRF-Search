@@ -1,0 +1,3 @@
+python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m not_trimmed_with_all_zf_v101o_fs_pep_all_msfrag_nme_always_peptide2parent.tsv.gz --query possible_frameshift_peptides.txt --out possible_frameshift_peptides_classed.tsv --summary-out possible_frameshift_peptides_classed_summary.txt
+
+python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m not_trimmed_with_all_zf_v101o_fs_pep_all_msfrag_nme_always_peptide2parent.tsv.gz --query all_peptides.txt --out all_peptides_classed.tsv --summary-out all_peptides_classed_summary.txt

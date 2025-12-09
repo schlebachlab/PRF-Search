@@ -1,0 +1,9 @@
+flag	value
+--psm	GM12878_AspN_HCD/psm.tsv
+--psm	HUVEC_AspN_CAD/psm.tsv
+--psm	HUVEC_AspN_HCD/psm.tsv
+--psm	HeLa_AspN_HCD/psm.tsv
+--psm	HepG2_AspN_HCD/psm.tsv
+--psm	K562_AspN_HCD/psm.tsv
+--psm	hESC_AspN_HCD/psm.tsv
+--specdir	/scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/first_pass/AspN_CAD/AspN_CAD_23_1_results

@@ -1,0 +1,14 @@
+flag	value
+--psm	GM12878_Chymo_CAD/psm.tsv
+--psm	GM12878_Chymo_HCD/psm.tsv
+--psm	HUVEC_Chymo_CAD/psm.tsv
+--psm	HUVEC_Chymo_HCD/psm.tsv
+--psm	HeLa_Chymo_CAD/psm.tsv
+--psm	HeLa_Chymo_HCD/psm.tsv
+--psm	HepG2_Chymo_CAD/psm.tsv
+--psm	HepG2_Chymo_HCD/psm.tsv
+--psm	K562_Chymo_CAD/psm.tsv
+--psm	K562_Chymo_HCD/psm.tsv
+--psm	hESC_Chymo_CAD/psm.tsv
+--psm	hESC_Chymo_HCD/psm.tsv
+--specdir	/scratch/negishi/afarzam/deepseq_fragger_2pass/MSV000086944_results_v3/first_pass/Chymo_CAD/Chymo_CAD_23_1_results

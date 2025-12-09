@@ -1,0 +1,2 @@
+Peptide	Prev AA	Next AA	Start	End	Peptide Length	Charges	Probability	Spectral Count	Intensity	Match Type	Assigned Modifications	Observed Modifications	Protein	Protein ID	Entry Name	Gene	Protein Description	Mapped Genes	Mapped Proteins
+TLRLVQAFQFTDKHGE	E	V	156	171	16	3,4	0.9828	5	1.49706918E9	MS/MS			sp|Q06830|PRDX1_HUMAN	Q06830	PRDX1_HUMAN	PRDX1	Peroxiredoxin-1		
