@@ -1,0 +1,33 @@
+# Gene Ontology Analysis
+"Gene Ontology Analysis of TMD-Slip Motif-Containing Genes/go-basic.obo" filter=lfs diff=lfs merge=lfs -text
+"Gene Ontology Analysis of TMD-Slip Motif-Containing Genes/motif_search_output_v73_motif_search_ensembl_uniprot_dict_full_blastp.csv" filter=lfs diff=lfs merge=lfs -text
+"Gene Ontology Analysis of TMD-Slip Motif-Containing Genes/motif_search_output_v73_motif_search_harrington_motifs.csv" filter=lfs diff=lfs merge=lfs -text
+"Gene Ontology Analysis of TMD-Slip Motif-Containing Genes/topcons_ensembl_output_march_2025.csv" filter=lfs diff=lfs merge=lfs -text
+"Gene Ontology Analysis of TMD-Slip Motif-Containing Genes/uniprotkb_AND_reviewed_true_AND_model_o_2024_10_02.tsv" filter=lfs diff=lfs merge=lfs -text
+# Proteomic Search Utility Script
+"Proteomic Search/Peptide Source Tracing Utility/not_trimmed_with_all_zf_v101o_fs_pep_all_msfrag_nme_always_peptide2parent.tsv.gz" filter=lfs diff=lfs merge=lfs -text
+# Statistical Analysis
+"Statistical Analysis/all_heptamers_friction_scan.csv" filter=lfs diff=lfs merge=lfs -text
+"Statistical Analysis/blastp_results_uniprot_all_hs_rev_ensembl_r113_all.tsv" filter=lfs diff=lfs merge=lfs -text
+"Statistical Analysis/ensembl_features_12_March_2025.tsv" filter=lfs diff=lfs merge=lfs -text
+"Statistical Analysis/Homo_sapiens.GRCh38.cds.all_release-113_2024-08-15.fa" filter=lfs diff=lfs merge=lfs -text
+"Statistical Analysis/noncanonical_slipsites_2.8_cutoff.txt" filter=lfs diff=lfs merge=lfs -text
+"Statistical Analysis/topcons_ensembl_output_march_2025.csv" filter=lfs diff=lfs merge=lfs -text
+"Statistical Analysis/uniprotkb_taxonomy_id_9606_AND_reviewed_2024_09_07.xlsx" filter=lfs diff=lfs merge=lfs -text
+# Heptamer Scoring
+"TMD-Slip Motif Search/Heptamer Scoring/all_heptamers.txt" filter=lfs diff=lfs merge=lfs -text
+# Motif Search and Frameshift Product Prediction
+"TMD-Slip Motif Search/TMD-slip motif search and frameshifted peptide prediction/blastp_results_uniprot_all_hs_rev_ensembl_r113_all.tsv" filter=lfs diff=lfs merge=lfs -text
+"TMD-Slip Motif Search/TMD-slip motif search and frameshifted peptide prediction/ensembl_features_12_March_2025.tsv" filter=lfs diff=lfs merge=lfs -text
+"TMD-Slip Motif Search/TMD-slip motif search and frameshifted peptide prediction/Homo_sapiens.GRCh38.cds.all_release-113_2024-08-15.fa" filter=lfs diff=lfs merge=lfs -text
+"TMD-Slip Motif Search/TMD-slip motif search and frameshifted peptide prediction/noncanonical_slipsites_2.8_cutoff.txt" filter=lfs diff=lfs merge=lfs -text
+"TMD-Slip Motif Search/TMD-slip motif search and frameshifted peptide prediction/topcons_ensembl_output_march_2025.csv" filter=lfs diff=lfs merge=lfs -text
+"TMD-Slip Motif Search/TMD-slip motif search and frameshifted peptide prediction/uniprotkb_taxonomy_id_9606_AND_reviewed_2024_09_07.xlsx" filter=lfs diff=lfs merge=lfs -text
+# Transmembrane Domain Analysis
+"TMD-Slip Motif Search/Transmembrane Domain Analysis/ensembl_homo_sapiens_grch38_15_aug_release_113_translated.fasta" filter=lfs diff=lfs merge=lfs -text
+"TMD-Slip Motif Search/Transmembrane Domain Analysis/Homo_sapiens.GRCh38.cds.all_release-113_2024-08-15.fa" filter=lfs diff=lfs merge=lfs -text
+"TMD-Slip Motif Search/Transmembrane Domain Analysis/topcons_result_ensembl_pep_march_2025_combined.txt" filter=lfs diff=lfs merge=lfs -text
+TMD-Slip[[:space:]]Motif[[:space:]]Search/TMD-slip[[:space:]]motif[[:space:]]search[[:space:]]and[[:space:]]frameshifted[[:space:]]peptide[[:space:]]prediction/all_heptamers_friction_scan.csv filter=lfs diff=lfs merge=lfs -text
+Proteomic[[:space:]]Search/Peptide[[:space:]]Source[[:space:]]Tracing[[:space:]]Utility/not_trimmed_with_all_zf_v101o_fs_pep_all_msfrag_nme_always_peptide2parent.tsv.gz.part-00 filter=lfs diff=lfs merge=lfs -text
+Proteomic[[:space:]]Search/Peptide[[:space:]]Source[[:space:]]Tracing[[:space:]]Utility/not_trimmed_with_all_zf_v101o_fs_pep_all_msfrag_nme_always_peptide2parent.tsv.gz.part-01 filter=lfs diff=lfs merge=lfs -text
+Proteomic[[:space:]]Search/Peptide[[:space:]]Source[[:space:]]Tracing[[:space:]]Utility/not_trimmed_with_all_zf_v101o_fs_pep_all_msfrag_nme_always_peptide2parent.tsv.gz.part-02 filter=lfs diff=lfs merge=lfs -text
