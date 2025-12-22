@@ -1,0 +1,23 @@
+name: prf_search_preskon
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - https://conda.anaconda.org/conda-forge
+dependencies:
+  - python=3.8
+  - ipython
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - xlrd
+  - viennarna
+  - biopython
+  - blast
+  - pyteomics
+prefix: /home/cpkuntz/.conda/envs/prf_search_preskon
