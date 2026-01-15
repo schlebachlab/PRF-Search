@@ -17,18 +17,23 @@ Activate the environment with:
 
 conda activate prf_search_preskon
 
+Library installation takes less than 2 minutes on a typical Linux workstation (16 core Intel processor, 64 gb ram, Fedora 42.
+
 Repository layout
 
 The top-level folders correspond to the major stages of the analysis:
 
 TMD-slip motif search
-End-to-end pipeline for heptamer friction scoring, transmembrane-domain analysis, motif discovery, and frameshift-product generation.
+End-to-end pipeline for heptamer friction scoring, transmembrane-domain analysis, motif discovery, and frameshift-product generation. Runtime is on hours timescale.
 
 Statistical Analyses
-Scripts used to reproduce the statistical tests and figures reported in the manuscript.
+Scripts used to reproduce the statistical tests and figures reported in the manuscript. Runtime is on hours timescale.
+
+Gene Ontology Analysis
+Script used to search TMD-slip motif containing genes for Gene Ontology term enrichments. This script's runtime is on the minutes scale on our workstation.
 
 Proteomics Search for Frameshifted Peptides
-Utilities for validating spectra assigned to chimeric frameshift products and mapping peptides to parent sequences.
+Utilities for validating spectra assigned to chimeric frameshift products and mapping peptides to parent sequences. Runtime is typically days to 1 week for MSFragger pipeline. Utility script runtime is hours to parse the mapping file.
 
 The peptide source utility requires a mapping of peptide to parent produced by the TMD-slip motif search (peptide2parent.tsv.gz). The peptide2parent mapping file is too large for GitHub's single-file Git LFS limits, so it is stored in three parts:
 
