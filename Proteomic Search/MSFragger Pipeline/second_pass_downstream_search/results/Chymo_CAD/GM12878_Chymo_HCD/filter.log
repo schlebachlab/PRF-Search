@@ -1,0 +1,70 @@
+time="19:12:46" level=info msg="Executing Filter  v5.1.2"
+time="19:12:46" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_CAD"
+time="19:12:47" level=info msg="Processing peptide identification files"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_12_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_9_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_27_140926165058_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_18_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_33_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_27_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_26_140926145859_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_25_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_1_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_21_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_10_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_14_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_13_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_11_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_6_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_34_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_4_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_2_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_35_2_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_35_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_16_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_29_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_3_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_15_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_28_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_32_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_25_140926130659_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_26_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_11_140924142641_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_24_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_17_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_31_sub.pep.xml"
+time="19:12:47" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_35_2_sub.pep.xml"
+time="19:12:47" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_3_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_30_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_23_sub.pep.xml"
+time="19:12:47" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_32_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_20_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_7_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_8_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_5_sub.pep.xml"
+time="19:12:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_19_sub.pep.xml"
+time="19:12:47" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_5_sub.pep.xml"
+time="19:12:47" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Chymo_CAD/Chymo_CAD_2pass_results/GM12878_Chymo_HCD/interact-GM12878_chymo_31_sub.pep.xml"
+time="19:12:51" level=info msg="1+ Charge profile" decoy=0 target=0
+time="19:12:51" level=info msg="2+ Charge profile" decoy=92 target=272
+time="19:12:51" level=info msg="3+ Charge profile" decoy=79 target=207
+time="19:12:51" level=info msg="4+ Charge profile" decoy=15 target=65
+time="19:12:51" level=info msg="5+ Charge profile" decoy=8 target=18
+time="19:12:51" level=info msg="6+ Charge profile" decoy=3 target=4
+time="19:12:51" level=info msg="Database search results" ions=678 peptides=667 psms=769
+time="19:12:51" level=info msg="Converged to 0.00 % FDR with 11 PSMs" decoy=0 threshold=0.940407 total=11
+time="19:12:51" level=info msg="Converged to 0.00 % FDR with 8 Peptides" decoy=0 threshold=0.940407 total=8
+time="19:12:51" level=info msg="Converged to 0.00 % FDR with 8 Ions" decoy=0 threshold=0.940407 total=8
+time="19:12:51" level=info msg="Protein inference results" decoy=3410 target=5165
+time="19:12:51" level=info msg="Converged to 0.00 % FDR with 67 Proteins" decoy=0 threshold=0.9847 total=67
+time="19:12:51" level=info msg="Applying sequential FDR estimation" ions=5 peptides=5 psms=8
+time="19:12:51" level=info msg="Converged to 0.00 % FDR with 7 PSMs" decoy=0 threshold=0.950972 total=7
+time="19:12:51" level=info msg="Converged to 0.00 % FDR with 4 Peptides" decoy=0 threshold=0.985881 total=4
+time="19:12:51" level=info msg="Converged to 0.00 % FDR with 4 Ions" decoy=0 threshold=0.985881 total=4
+time="19:12:51" level=info msg="Post processing identifications"
+time="19:12:51" level=info msg="Assigning protein identifications to layers"
+time="19:12:51" level=info msg="Processing protein inference"
+time="19:12:52" level=info msg="Synchronizing PSMs and proteins"
+time="19:12:52" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=4 peptides=4 proteins=4 psms=7
+time="19:12:52" level=info msg=Saving
+time="19:12:52" level=info msg=Done

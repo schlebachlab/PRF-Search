@@ -1,0 +1,69 @@
+time="10:05:46" level=info msg="Executing Filter  v5.1.2"
+time="10:05:46" level=info msg="Processing peptide identification files"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_33_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr2_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_26_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr18_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr5_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141019_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr8_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_29_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141019_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr13_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_22_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr6_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr35_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_20_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_31_140927170153_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr3_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141019_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr6_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr4_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141019_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr7_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_31_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_30_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_30_140927151016_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_32_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr19_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_23_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr1_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr16_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_25_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr2_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr1_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr21_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr3_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_28_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr24_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr9_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_27_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_29_140927131842_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141019_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr12_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr34_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr14_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr10_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr11_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr17_141031155246_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20141029_alr_CompleteHumanProteome_GM12878_LysC_HCD_fr15_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-20150104_alr_CompleteHumanProteome_GM12878_HCD_LysC_fr26_sub.pep.xml"
+time="10:05:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD/interact-GM12878_LysC_28_2_sub.pep.xml"
+time="10:05:47" level=info msg="1+ Charge profile" decoy=0 target=0
+time="10:05:47" level=info msg="2+ Charge profile" decoy=143 target=730
+time="10:05:47" level=info msg="3+ Charge profile" decoy=135 target=725
+time="10:05:47" level=info msg="4+ Charge profile" decoy=62 target=368
+time="10:05:47" level=info msg="5+ Charge profile" decoy=47 target=158
+time="10:05:47" level=info msg="6+ Charge profile" decoy=18 target=82
+time="10:05:47" level=info msg="Database search results" ions=1720 peptides=1597 psms=2472
+time="10:05:47" level=info msg="Converged to 0.93 % FDR with 321 PSMs" decoy=3 threshold=0.945365 total=324
+time="10:05:47" level=info msg="Converged to 0.00 % FDR with 34 Peptides" decoy=0 threshold=0.99786 total=34
+time="10:05:47" level=info msg="Converged to 0.93 % FDR with 108 Ions" decoy=1 threshold=0.965901 total=109
+time="10:05:47" level=info msg="Protein inference results" decoy=1759 target=2653
+time="10:05:48" level=info msg="Converged to 0.00 % FDR with 52 Proteins" decoy=0 threshold=0.9967 total=52
+time="10:05:48" level=info msg="Applying sequential FDR estimation" ions=67 peptides=48 psms=231
+time="10:05:48" level=info msg="Converged to 0.00 % FDR with 230 PSMs" decoy=0 threshold=0.949016 total=230
+time="10:05:48" level=info msg="Converged to 0.00 % FDR with 47 Peptides" decoy=0 threshold=0.952843 total=47
+time="10:05:48" level=info msg="Converged to 0.00 % FDR with 66 Ions" decoy=0 threshold=0.952843 total=66
+time="10:05:48" level=info msg="Post processing identifications"
+time="10:05:48" level=info msg="Assigning protein identifications to layers"
+time="10:05:48" level=info msg="Processing protein inference"
+time="10:05:48" level=info msg="Synchronizing PSMs and proteins"
+time="10:05:48" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=66 peptides=47 proteins=35 psms=230
+time="10:05:48" level=info msg=Saving
+time="10:05:48" level=info msg=Done

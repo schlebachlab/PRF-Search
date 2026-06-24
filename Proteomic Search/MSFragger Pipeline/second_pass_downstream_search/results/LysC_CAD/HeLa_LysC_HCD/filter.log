@@ -1,0 +1,61 @@
+time="20:23:24" level=info msg="Executing Filter  v5.1.2"
+time="20:23:24" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD"
+time="20:23:24" level=info msg="Processing peptide identification files"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_9_140916223826_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_10_140917003415_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_22_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_31_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_3_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_16_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_13_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_6_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_11_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_14_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_19_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_7_140916184630_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_4_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_23_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_27_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_18_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_32_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_34_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_28_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_24_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_17_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_21_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_5_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_2_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_12_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_26_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_29_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_30_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_8_140916204231_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_1_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_20_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_33_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_35_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_25_sub.pep.xml"
+time="20:23:24" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/HeLa_LysC_HCD/interact-HeLaS3_LysC_15_sub.pep.xml"
+time="20:23:25" level=info msg="1+ Charge profile" decoy=0 target=0
+time="20:23:25" level=info msg="2+ Charge profile" decoy=125 target=366
+time="20:23:25" level=info msg="3+ Charge profile" decoy=92 target=318
+time="20:23:25" level=info msg="4+ Charge profile" decoy=33 target=171
+time="20:23:25" level=info msg="5+ Charge profile" decoy=23 target=110
+time="20:23:25" level=info msg="6+ Charge profile" decoy=13 target=37
+time="20:23:25" level=info msg="Database search results" ions=1059 peptides=1013 psms=1288
+time="20:23:25" level=info msg="Converged to 0.00 % FDR with 12 PSMs" decoy=0 threshold=0.994789 total=12
+time="20:23:25" level=info msg="Converged to 0.00 % FDR with 10 Peptides" decoy=0 threshold=0.994789 total=10
+time="20:23:25" level=info msg="Converged to 0.00 % FDR with 11 Ions" decoy=0 threshold=0.994789 total=11
+time="20:23:25" level=info msg="Protein inference results" decoy=1132 target=1959
+time="20:23:25" level=info msg="Converged to 0.00 % FDR with 29 Proteins" decoy=0 threshold=0.9936 total=29
+time="20:23:25" level=info msg="Applying sequential FDR estimation" ions=11 peptides=10 psms=12
+time="20:23:25" level=info msg="Converged to 0.00 % FDR with 11 PSMs" decoy=0 threshold=0.995534 total=11
+time="20:23:25" level=info msg="Converged to 0.00 % FDR with 9 Peptides" decoy=0 threshold=0.995534 total=9
+time="20:23:25" level=info msg="Converged to 0.00 % FDR with 10 Ions" decoy=0 threshold=0.995534 total=10
+time="20:23:25" level=info msg="Post processing identifications"
+time="20:23:25" level=info msg="Assigning protein identifications to layers"
+time="20:23:26" level=info msg="Processing protein inference"
+time="20:23:26" level=info msg="Synchronizing PSMs and proteins"
+time="20:23:26" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=10 peptides=9 proteins=9 psms=11
+time="20:23:26" level=info msg=Saving
+time="20:23:26" level=info msg=Done

@@ -1,0 +1,63 @@
+time="21:01:19" level=info msg="Executing Filter  v5.1.2"
+time="21:01:19" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/GM12878_LysN_ETD"
+time="21:01:20" level=info msg="Processing peptide identification files"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr9_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr10_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr11_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr26_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr25_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr3_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr12_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr32_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr6_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr29_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr27_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr5_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr2_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr4_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr28_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr1_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr8_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr7_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr24_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr31_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr30_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr21_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr13_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr20_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr23_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr14_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr15_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr16_sub.pep.xml"
+time="21:01:20" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr30_sub.pep.xml"
+time="21:01:20" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr8_sub.pep.xml"
+time="21:01:20" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr5_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr22_sub.pep.xml"
+time="21:01:20" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr31_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr17_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr19_sub.pep.xml"
+time="21:01:20" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr18_sub.pep.xml"
+time="21:01:20" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysN_ETD/LysN_ETD_2pass_results/K562_LysN_ETD/interact-20160202_alr_CompleteHumanProteome_K562_LysN_ETD_fr2_sub.pep.xml"
+time="21:01:21" level=info msg="1+ Charge profile" decoy=0 target=0
+time="21:01:21" level=info msg="2+ Charge profile" decoy=69 target=215
+time="21:01:21" level=info msg="3+ Charge profile" decoy=56 target=164
+time="21:01:21" level=info msg="4+ Charge profile" decoy=37 target=112
+time="21:01:21" level=info msg="5+ Charge profile" decoy=28 target=37
+time="21:01:21" level=info msg="6+ Charge profile" decoy=3 target=6
+time="21:01:21" level=info msg="Database search results" ions=626 peptides=607 psms=727
+time="21:01:21" level=info msg="Converged to 0.00 % FDR with 29 PSMs" decoy=0 threshold=0.853267 total=29
+time="21:01:21" level=info msg="Converged to 0.00 % FDR with 26 Peptides" decoy=0 threshold=0.85467 total=26
+time="21:01:21" level=info msg="Converged to 0.00 % FDR with 26 Ions" decoy=0 threshold=0.85467 total=26
+time="21:01:21" level=info msg="Protein inference results" decoy=1106 target=1792
+time="21:01:21" level=info msg="Converged to 0.00 % FDR with 37 Proteins" decoy=0 threshold=0.9249 total=37
+time="21:01:21" level=info msg="Applying sequential FDR estimation" ions=14 peptides=14 psms=16
+time="21:01:21" level=info msg="Converged to 0.00 % FDR with 15 PSMs" decoy=0 threshold=0.883777 total=15
+time="21:01:21" level=info msg="Converged to 0.00 % FDR with 13 Peptides" decoy=0 threshold=0.912366 total=13
+time="21:01:21" level=info msg="Converged to 0.00 % FDR with 13 Ions" decoy=0 threshold=0.912366 total=13
+time="21:01:21" level=info msg="Post processing identifications"
+time="21:01:21" level=info msg="Assigning protein identifications to layers"
+time="21:01:21" level=info msg="Processing protein inference"
+time="21:01:22" level=info msg="Synchronizing PSMs and proteins"
+time="21:01:22" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=13 peptides=13 proteins=14 psms=15
+time="21:01:22" level=info msg=Saving
+time="21:01:22" level=info msg=Done

@@ -1,0 +1,27 @@
+time="06:41:47" level=info msg="Executing Filter  v5.1.2"
+time="06:41:47" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_CAD"
+time="06:41:48" level=info msg="Processing peptide identification files"
+time="06:41:48" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/GluC_CAD/GluC_CAD_2pass_results/hESC_GluC_CAD/interact-GluC_hES_CAD_3_sub.pep.xml"
+time="06:41:50" level=info msg="1+ Charge profile" decoy=0 target=0
+time="06:41:50" level=info msg="2+ Charge profile" decoy=2 target=7
+time="06:41:50" level=info msg="3+ Charge profile" decoy=0 target=5
+time="06:41:50" level=info msg="4+ Charge profile" decoy=1 target=4
+time="06:41:50" level=info msg="5+ Charge profile" decoy=0 target=1
+time="06:41:50" level=info msg="6+ Charge profile" decoy=0 target=0
+time="06:41:50" level=info msg="Database search results" ions=20 peptides=20 psms=20
+time="06:41:50" level=info msg="Converged to 0.00 % FDR with 5 PSMs" decoy=0 threshold=0.677791 total=5
+time="06:41:50" level=info msg="Converged to 0.00 % FDR with 5 Peptides" decoy=0 threshold=0.677791 total=5
+time="06:41:50" level=info msg="Converged to 0.00 % FDR with 5 Ions" decoy=0 threshold=0.677791 total=5
+time="06:41:50" level=info msg="Protein inference results" decoy=2784 target=3402
+time="06:41:50" level=info msg="Converged to 0.00 % FDR with 43 Proteins" decoy=0 threshold=0.9826 total=43
+time="06:41:50" level=info msg="Applying sequential FDR estimation" ions=2 peptides=2 psms=2
+time="06:41:50" level=info msg="Converged to 0.00 % FDR with 1 PSMs" decoy=0 threshold=0.987736 total=1
+time="06:41:50" level=info msg="Converged to 0.00 % FDR with 1 Peptides" decoy=0 threshold=0.987736 total=1
+time="06:41:50" level=info msg="Converged to 0.00 % FDR with 1 Ions" decoy=0 threshold=0.987736 total=1
+time="06:41:50" level=info msg="Post processing identifications"
+time="06:41:50" level=info msg="Assigning protein identifications to layers"
+time="06:41:50" level=info msg="Processing protein inference"
+time="06:41:51" level=info msg="Synchronizing PSMs and proteins"
+time="06:41:51" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=1 peptides=1 proteins=1 psms=1
+time="06:41:51" level=info msg=Saving
+time="06:41:51" level=info msg=Done

@@ -1,0 +1,47 @@
+time="20:23:32" level=info msg="Executing Filter  v5.1.2"
+time="20:23:32" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/GM12878_LysC_HCD"
+time="20:23:32" level=info msg="Processing peptide identification files"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_9_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_16_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_19_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_1_leastIntense_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_15_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_17_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_18_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_2_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_3_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_22_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_20_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_25_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_24_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_23_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_21_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_6_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_8_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_5_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_4_sub.pep.xml"
+time="20:23:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_1_leastIntense_sub.pep.xml"
+time="20:23:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/LysC_CAD/LysC_CAD_2pass_results/hESC_LysC_HCD/interact-LysC_hES_7_sub.pep.xml"
+time="20:23:33" level=info msg="1+ Charge profile" decoy=0 target=0
+time="20:23:33" level=info msg="2+ Charge profile" decoy=23 target=93
+time="20:23:33" level=info msg="3+ Charge profile" decoy=42 target=135
+time="20:23:33" level=info msg="4+ Charge profile" decoy=10 target=61
+time="20:23:33" level=info msg="5+ Charge profile" decoy=11 target=60
+time="20:23:33" level=info msg="6+ Charge profile" decoy=7 target=22
+time="20:23:33" level=info msg="Database search results" ions=402 peptides=388 psms=464
+time="20:23:33" level=info msg="Converged to 0.00 % FDR with 5 PSMs" decoy=0 threshold=0.987768 total=5
+time="20:23:33" level=info msg="Converged to 0.00 % FDR with 5 Peptides" decoy=0 threshold=0.987768 total=5
+time="20:23:33" level=info msg="Converged to 0.00 % FDR with 5 Ions" decoy=0 threshold=0.987768 total=5
+time="20:23:33" level=info msg="Protein inference results" decoy=1132 target=1959
+time="20:23:34" level=info msg="Converged to 0.00 % FDR with 29 Proteins" decoy=0 threshold=0.9936 total=29
+time="20:23:34" level=info msg="Applying sequential FDR estimation" ions=2 peptides=2 psms=2
+time="20:23:34" level=info msg="Converged to 0.00 % FDR with 1 PSMs" decoy=0 threshold=0.99999 total=1
+time="20:23:34" level=info msg="Converged to 0.00 % FDR with 1 Peptides" decoy=0 threshold=0.99999 total=1
+time="20:23:34" level=info msg="Converged to 0.00 % FDR with 1 Ions" decoy=0 threshold=0.99999 total=1
+time="20:23:34" level=info msg="Post processing identifications"
+time="20:23:34" level=info msg="Assigning protein identifications to layers"
+time="20:23:34" level=info msg="Processing protein inference"
+time="20:23:34" level=info msg="Synchronizing PSMs and proteins"
+time="20:23:34" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=1 peptides=1 proteins=1 psms=1
+time="20:23:34" level=info msg=Saving
+time="20:23:34" level=info msg=Done

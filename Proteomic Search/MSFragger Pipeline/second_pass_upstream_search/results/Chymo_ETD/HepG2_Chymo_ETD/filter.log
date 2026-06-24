@@ -1,0 +1,61 @@
+time="04:13:34" level=info msg="Executing Filter  v5.1.2"
+time="04:13:34" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/GM12878_Chymo_ETD"
+time="04:13:35" level=info msg="Processing peptide identification files"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr13_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr11_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr23_151124150318_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr15_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr5_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr4_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr30_151125015205_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr2_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr28_151124224643_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr10_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr35_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr12_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr3_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr7_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr1_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr16_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr32_151125045726_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr25_151124180838_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr26_151124194122_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr21_151124115321_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr14_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr8_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr17_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr24_151124163558_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr20_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr27_151124211403_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr19_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr34_151125080248_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr29_151125001924_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr9_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr22_151124133038_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr18_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr31_151125032447_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr33_151125063007_sub.pep.xml"
+time="04:13:35" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Chymo_ETD/Chymo_ETD_2pass_results/HepG2_Chymo_ETD/interact-20151118_alr_CompleteHumanProteome_HepG2_ETD_chymo_fr6_sub.pep.xml"
+time="04:13:38" level=info msg="1+ Charge profile" decoy=0 target=0
+time="04:13:38" level=info msg="2+ Charge profile" decoy=667 target=2847
+time="04:13:38" level=info msg="3+ Charge profile" decoy=345 target=935
+time="04:13:38" level=info msg="4+ Charge profile" decoy=116 target=271
+time="04:13:38" level=info msg="5+ Charge profile" decoy=76 target=139
+time="04:13:38" level=info msg="6+ Charge profile" decoy=41 target=47
+time="04:13:38" level=info msg="Database search results" ions=4815 peptides=4686 psms=5484
+time="04:13:38" level=info msg="Converged to 0.00 % FDR with 26 PSMs" decoy=0 threshold=0.92588 total=26
+time="04:13:38" level=info msg="Converged to 0.00 % FDR with 25 Peptides" decoy=0 threshold=0.92588 total=25
+time="04:13:38" level=info msg="Converged to 0.00 % FDR with 25 Ions" decoy=0 threshold=0.92588 total=25
+time="04:13:38" level=info msg="Protein inference results" decoy=2857 target=4729
+time="04:13:38" level=info msg="Converged to 0.00 % FDR with 29 Proteins" decoy=0 threshold=0.9577 total=29
+time="04:13:38" level=info msg="Applying sequential FDR estimation" ions=9 peptides=9 psms=10
+time="04:13:38" level=info msg="Converged to 0.00 % FDR with 9 PSMs" decoy=0 threshold=0.950994 total=9
+time="04:13:38" level=info msg="Converged to 0.00 % FDR with 8 Peptides" decoy=0 threshold=0.95641 total=8
+time="04:13:38" level=info msg="Converged to 0.00 % FDR with 8 Ions" decoy=0 threshold=0.95641 total=8
+time="04:13:38" level=info msg="Post processing identifications"
+time="04:13:38" level=info msg="Assigning protein identifications to layers"
+time="04:13:38" level=info msg="Processing protein inference"
+time="04:13:39" level=info msg="Synchronizing PSMs and proteins"
+time="04:13:39" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=8 peptides=8 proteins=9 psms=9
+time="04:13:39" level=info msg=Saving
+time="04:13:39" level=info msg=Done
