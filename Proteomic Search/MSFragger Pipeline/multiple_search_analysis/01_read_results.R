@@ -13,7 +13,8 @@ for (condition in search_conditions) {
                                                    "next_aa" = col_character(),
                                                    "frame_transition" = col_character(),
                                                    "charges" = col_character())) |> 
-    rename(enz_act = source)
+    rename(enz_act = source) |> 
+    mutate(enz_act = str_remove(enz_act, "_pepcom"))
   assign(paste0(condition, "_classified_peptides"), loop_tbl, envir = .GlobalEnv)
   rm(directory, file_path, loop_tbl, condition)
 }
@@ -21,7 +22,8 @@ for (condition in search_conditions) {
 all_search_classified_peptides <- bind_rows(upstream = upstream_search_classified_peptides, 
                                             prf_search = main_search_classified_peptides, 
                                             downstream = downstream_search_classified_peptides,
-                                            .id = "source")
+                                            .id = "source") |> 
+  select(!search_side)
 
 # pull data from the first pass search analysis
 first_pass_chunks <- list() # create empty list to collect the chunks of first pass results
@@ -38,4 +40,6 @@ for (chunk in 1:3) {
   rm(file_path)
 } # for loop to read each chunk
 
-first_pass_peptides_and_genes <- bind_rows(first_pass_chunks)
+first_pass_peptides_and_genes <- bind_rows(first_pass_chunks) |> 
+  rename(enz_act = source) |> 
+  mutate(enz_act = str_remove(enz_act, "_pepcom"))
