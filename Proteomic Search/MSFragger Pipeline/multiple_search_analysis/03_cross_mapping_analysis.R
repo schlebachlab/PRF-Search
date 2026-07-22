@@ -1,7 +1,11 @@
 # Author: Ali Farzam (GitHub: theAliFarzam)
 # Correspondence: afarzam@purdue.edu | Dr. Bryon S. Drown (bsdrown@purdue.edu)
 
+library(tidyverse)
+
 # read in the cross-map files
+search_conditions <- list("main_search", "downstream_search", "upstream_search")
+
 for (condition in search_conditions) {
   directory <- paste0("../second_pass_", condition)
   upstream_path <- paste0(directory, 
@@ -102,4 +106,93 @@ downstream_search_upstream_map_not_found <- downstream_search_upstream_map_class
 
 upstream_search_downstream_map_not_found <- upstream_search_downstream_map_classified_peptides |> 
   filter(str_detect(category, "not_found"))
+
+# trying to make one BIG table with all mapping classifications for each identified peptide
+# filter and rename columns in the join so that global environment is less cluttered
+BIG_table <- main_search_classified_peptides |> 
+  select(-starts_with("n_")) |> 
+  select(-(tmd_start:last_col())) |> 
+  rename(prf_category = category) |> 
+  full_join(main_search_upstream_map_classified_peptides |> 
+              select(-starts_with("n_")) |> 
+              select(-(tmd_start:last_col())) |> 
+              rename(prf_upstream_map_category = category)) |> 
+  relocate(prf_upstream_map_category, .after = prf_category) |> 
+  full_join(upstream_search_classified_peptides |> 
+              select(-starts_with("n_")) |> 
+              select(-(tmd_start:last_col())) |> 
+              rename(upstream_category = category)) |> 
+  relocate(upstream_category, .after = prf_upstream_map_category) |> 
+  full_join(upstream_search_downstream_map_classified_peptides |> 
+              select(-starts_with("n_")) |> 
+              select(-(tmd_start:last_col())) |> 
+              rename(upstream_downstream_map_category = category)) |> 
+  relocate(upstream_downstream_map_category, .after = upstream_category) |> 
+  full_join(downstream_search_classified_peptides|> 
+              select(-starts_with("n_")) |> 
+              select(-(tmd_start:last_col())) |> 
+              rename(downstream_category = category)) |> 
+  relocate(downstream_category, .after = upstream_downstream_map_category) |> 
+  full_join(downstream_search_upstream_map_classified_peptides|> 
+              select(-starts_with("n_")) |> 
+              select(-(tmd_start:last_col())) |> 
+              rename(downstream_upstream_map_category = category)) |>
+  relocate(downstream_upstream_map_category, .after = downstream_category)
+
+BIG_table |> 
+  filter(!is.na(upstream_category) & 
+           !is.na(upstream_downstream_map_category) & 
+           !is.na(prf_category) & 
+           !is.na(prf_upstream_map_category) & 
+           !is.na(downstream_category) & 
+           !is.na(downstream_upstream_map_category))
+
+BIG_table |> 
+  filter(!is.na(upstream_category) & 
+           !is.na(upstream_downstream_map_category) & 
+           !is.na(prf_category) & 
+           !is.na(prf_upstream_map_category) & 
+           !is.na(downstream_category) & 
+           !is.na(downstream_upstream_map_category))
+
+# make tables for specific results, such as unique peptides
+upstream_search_hits |> 
+  anti_join(main_search_upstream_map_hits, join_by(enz_act, peptide)) |> 
+  write_tsv(file = "unique_tf_peptides_upstream_search.tsv")
+
+main_search_upstream_map_hits |> 
+  anti_join(upstream_search_classified_peptides, join_by(enz_act, peptide)) |> 
+  write_tsv(file = "unique_tf_peptides_initial_search_upstream_map.tsv")
+
+main_search_upstream_map_hits |> 
+  write_tsv(file = "tf_peptides_initial_search_upstream_map.tsv")
+
+upstream_search_hits |> 
+  write_tsv(file = "tf_peptides_upstream_search.tsv")
+
+main_search_hits |> 
+  write_tsv(file = "tf_peptides_initial_search.tsv")
+
+downstream_search_classified_peptides |> 
+  write_tsv(file = "mapped_peptides_downstream_search.tsv")
+
+upstream_search_classified_peptides |> 
+  write_tsv(file = "mapped_peptides_upstream_search.tsv")
+
+main_search_classified_peptides |> 
+  write_tsv(file = "mapped_peptides_initial_search.tsv")
+
+downstream_search_upstream_map_classified_peptides |> 
+  write_tsv(file = "mapped_peptides_downstream_search_upstream_map.tsv")
+
+upstream_search_downstream_map_classified_peptides |> 
+  write_tsv(file = "mapped_peptides_upstream_search_downstream_map.tsv")
+
+main_search_upstream_map_classified_peptides |> 
+  write_tsv(file = "mapped_peptides_initial_search_upstream_map.tsv")
+
+BIG_table |> 
+  write_tsv(file = "all_peptide_identifications_cross_mapped.tsv")
+
+
 

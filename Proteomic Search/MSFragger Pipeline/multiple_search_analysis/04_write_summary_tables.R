@@ -61,6 +61,7 @@ for (name in tibble_names) {
   
   # Add a blank newline for spacing between blocks
   cat("\n", file = output_file, append = TRUE)
+  rm(current_tibble, summary_tibble)
 }
 
 print(paste("Summaries successfully written to", output_file))
@@ -100,4 +101,7 @@ for (nm in tbl_names) {
   
   # blank line between sections
   write("\n", file = outfile, append = TRUE)
+  
+  rm(summary_tbl. tbl)
 }
+

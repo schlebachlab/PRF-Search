@@ -1,6 +1,8 @@
 # Author: Ali Farzam (GitHub: theAliFarzam)
 # Correspondence: afarzam@purdue.edu | Dr. Bryon S. Drown (bsdrown@purdue.edu)
 
+library(tidyverse)
+
 # tibble of peptides from purely native sequences found in the second pass 
 # (all came from downstream and upstream search)
 no_frameshift_secondpass_peptides <- all_search_classified_peptides |> 
