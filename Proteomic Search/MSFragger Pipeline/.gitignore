@@ -1,3 +1,4 @@
 *.tsv.gz
 msstats.csv
 msstats_ptm.csv
+first_pass_search/

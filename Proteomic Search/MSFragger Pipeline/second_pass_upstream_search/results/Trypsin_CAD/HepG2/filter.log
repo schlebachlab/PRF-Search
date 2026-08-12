@@ -1,77 +1,77 @@
-time="13:56:55" level=info msg="Executing Filter  v5.1.2"
-time="13:56:55" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878"
-time="13:56:55" level=info msg="Processing peptide identification files"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr13_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr19_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr12_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr10_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr14_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr19_151203215945_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr15_151204041128_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr14_151204023833_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr11_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr22_151203185351_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr17_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr16_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr15_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr23_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr21_151204010538_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr22_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151209_alr_CompleteHumanProteome_HepG2_HCD_trypsin_5_2_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr24_151204102307_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr27_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr26_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr24_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr33_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr25_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr29_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr32_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr2_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr30_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr31_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr28_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr17_151204071716_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr21_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr23_151203202650_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr1_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr1_151203172052_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr16_151204054422_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr6_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr34_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr35_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr3_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr20_151203233241_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr4_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr5_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr18_151204085011_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr20_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr9_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr7_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr8_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151209_alr_CompleteHumanProteome_HepG2_HCD_trypsin_31_2_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151209_alr_CompleteHumanProteome_HepG2_HCD_trypsin_24_2_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151209_alr_CompleteHumanProteome_HepG2_HCD_trypsin_4_2_sub.pep.xml"
-time="13:56:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr18_sub.pep.xml"
-time="13:56:59" level=info msg="1+ Charge profile" decoy=0 target=0
-time="13:56:59" level=info msg="2+ Charge profile" decoy=755 target=2775
-time="13:56:59" level=info msg="3+ Charge profile" decoy=358 target=1768
-time="13:56:59" level=info msg="4+ Charge profile" decoy=75 target=411
-time="13:56:59" level=info msg="5+ Charge profile" decoy=16 target=47
-time="13:56:59" level=info msg="6+ Charge profile" decoy=10 target=6
-time="13:56:59" level=info msg="Database search results" ions=4503 peptides=4175 psms=6260
-time="13:56:59" level=info msg="Converged to 0.98 % FDR with 407 PSMs" decoy=4 threshold=0.969943 total=411
-time="13:56:59" level=info msg="Converged to 0.68 % FDR with 147 Peptides" decoy=1 threshold=0.977403 total=148
-time="13:56:59" level=info msg="Converged to 0.53 % FDR with 187 Ions" decoy=1 threshold=0.977403 total=188
-time="13:56:59" level=info msg="Protein inference results" decoy=4130 target=5996
-time="13:56:59" level=info msg="Converged to 0.97 % FDR with 310 Proteins" decoy=3 threshold=0.987 total=313
-time="13:57:00" level=info msg="Applying sequential FDR estimation" ions=184 peptides=142 psms=374
-time="13:57:00" level=info msg="Converged to 0.00 % FDR with 373 PSMs" decoy=0 threshold=0.97011 total=373
-time="13:57:00" level=info msg="Converged to 0.00 % FDR with 141 Peptides" decoy=0 threshold=0.97011 total=141
-time="13:57:00" level=info msg="Converged to 0.00 % FDR with 183 Ions" decoy=0 threshold=0.97011 total=183
-time="13:57:00" level=info msg="Post processing identifications"
-time="13:57:00" level=info msg="Assigning protein identifications to layers"
-time="13:57:00" level=info msg="Processing protein inference"
-time="13:57:01" level=info msg="Synchronizing PSMs and proteins"
-time="13:57:01" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=183 peptides=141 proteins=97 psms=373
-time="13:57:01" level=info msg=Saving
-time="13:57:01" level=info msg=Done
+time="03:34:57" level=info msg="Executing Filter  v5.1.2"
+time="03:34:57" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878"
+time="03:34:57" level=info msg="Processing peptide identification files"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr13_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr11_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr19_151203215945_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr14_151204023833_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151209_alr_CompleteHumanProteome_HepG2_HCD_trypsin_5_2_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr10_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr14_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr35_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr12_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr15_151204041128_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr8_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr24_151204102307_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr17_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151209_alr_CompleteHumanProteome_HepG2_HCD_trypsin_4_2_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr15_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr25_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr3_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151209_alr_CompleteHumanProteome_HepG2_HCD_trypsin_24_2_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr18_151204085011_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr21_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr7_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr1_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr9_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr4_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr24_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr16_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr5_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr34_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr18_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr21_151204010538_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151209_alr_CompleteHumanProteome_HepG2_HCD_trypsin_31_2_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr16_151204054422_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr23_151203202650_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr17_151204071716_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr19_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr20_151203233241_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr6_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr22_151203185351_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr23_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr31_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr2_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr28_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr30_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr27_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr32_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr1_151203172052_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr26_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr33_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr29_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr20_sub.pep.xml"
+time="03:34:57" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/HepG2/interact-20151201_alr_CompleteHumanProteome_HepG2_HCD_trypsin_fr22_sub.pep.xml"
+time="03:34:59" level=info msg="1+ Charge profile" decoy=0 target=0
+time="03:34:59" level=info msg="2+ Charge profile" decoy=349 target=1401
+time="03:34:59" level=info msg="3+ Charge profile" decoy=192 target=777
+time="03:34:59" level=info msg="4+ Charge profile" decoy=48 target=172
+time="03:34:59" level=info msg="5+ Charge profile" decoy=7 target=12
+time="03:34:59" level=info msg="6+ Charge profile" decoy=5 target=5
+time="03:34:59" level=info msg="Database search results" ions=2165 peptides=2032 psms=2990
+time="03:34:59" level=info msg="Converged to 0.85 % FDR with 118 PSMs" decoy=1 threshold=0.982003 total=119
+time="03:34:59" level=info msg="Converged to 0.00 % FDR with 59 Peptides" decoy=0 threshold=0.9833 total=59
+time="03:34:59" level=info msg="Converged to 0.00 % FDR with 71 Ions" decoy=0 threshold=0.982527 total=71
+time="03:34:59" level=info msg="Protein inference results" decoy=2289 target=3300
+time="03:34:59" level=info msg="Converged to 0.54 % FDR with 184 Proteins" decoy=2 threshold=0.9812 total=186
+time="03:34:59" level=info msg="Applying sequential FDR estimation" ions=74 peptides=62 psms=119
+time="03:34:59" level=info msg="Converged to 0.85 % FDR with 117 PSMs" decoy=1 threshold=0.982196 total=118
+time="03:34:59" level=info msg="Converged to 0.00 % FDR with 59 Peptides" decoy=0 threshold=0.9833 total=59
+time="03:34:59" level=info msg="Converged to 0.00 % FDR with 71 Ions" decoy=0 threshold=0.982527 total=71
+time="03:34:59" level=info msg="Post processing identifications"
+time="03:34:59" level=info msg="Assigning protein identifications to layers"
+time="03:35:00" level=info msg="Processing protein inference"
+time="03:35:00" level=info msg="Synchronizing PSMs and proteins"
+time="03:35:00" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=71 peptides=59 proteins=48 psms=117
+time="03:35:00" level=info msg=Saving
+time="03:35:00" level=info msg=Done

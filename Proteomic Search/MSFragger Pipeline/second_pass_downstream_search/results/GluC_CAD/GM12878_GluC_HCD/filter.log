@@ -1,63 +1,63 @@
-time="18:01:54" level=info msg="Executing Filter  v5.1.2"
-time="18:01:54" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_CAD"
-time="18:01:55" level=info msg="Processing peptide identification files"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_12_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_16_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_28_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_13_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_9_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_2_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_15_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_10_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_23_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_1_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_20_140923110456_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_18_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_19_140923090826_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_29_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_25_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_30_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_17_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_5_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_3_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_14_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_24_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_4_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_21_140923130130_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_6_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_20_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_8_sub.pep.xml"
-time="18:01:55" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_4_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_11_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_19_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_21_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_7_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_27_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_26_sub.pep.xml"
-time="18:01:55" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_30_sub.pep.xml"
-time="18:01:55" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_22_sub.pep.xml"
-time="18:01:55" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_21_sub.pep.xml"
-time="18:01:55" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_22_sub.pep.xml"
-time="18:01:56" level=info msg="1+ Charge profile" decoy=0 target=0
-time="18:01:56" level=info msg="2+ Charge profile" decoy=70 target=224
-time="18:01:56" level=info msg="3+ Charge profile" decoy=67 target=225
-time="18:01:56" level=info msg="4+ Charge profile" decoy=19 target=66
-time="18:01:56" level=info msg="5+ Charge profile" decoy=10 target=18
-time="18:01:56" level=info msg="6+ Charge profile" decoy=8 target=16
-time="18:01:56" level=info msg="Database search results" ions=554 peptides=537 psms=723
-time="18:01:56" level=info msg="Converged to 0.00 % FDR with 28 PSMs" decoy=0 threshold=0.84206 total=28
-time="18:01:56" level=info msg="Converged to 0.00 % FDR with 20 Peptides" decoy=0 threshold=0.84206 total=20
-time="18:01:56" level=info msg="Converged to 0.00 % FDR with 20 Ions" decoy=0 threshold=0.84206 total=20
-time="18:01:56" level=info msg="Protein inference results" decoy=1685 target=2096
-time="18:01:56" level=info msg="Converged to 0.00 % FDR with 28 Proteins" decoy=0 threshold=0.968 total=28
-time="18:01:56" level=info msg="Applying sequential FDR estimation" ions=5 peptides=5 psms=11
-time="18:01:56" level=info msg="Converged to 0.00 % FDR with 10 PSMs" decoy=0 threshold=0.866237 total=10
-time="18:01:56" level=info msg="Converged to 0.00 % FDR with 4 Peptides" decoy=0 threshold=0.943776 total=4
-time="18:01:56" level=info msg="Converged to 0.00 % FDR with 4 Ions" decoy=0 threshold=0.943776 total=4
-time="18:01:56" level=info msg="Post processing identifications"
-time="18:01:57" level=info msg="Assigning protein identifications to layers"
-time="18:01:57" level=info msg="Processing protein inference"
-time="18:01:57" level=info msg="Synchronizing PSMs and proteins"
-time="18:01:57" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=4 peptides=4 proteins=5 psms=10
-time="18:01:57" level=info msg=Saving
-time="18:01:57" level=info msg=Done
+time="21:21:45" level=info msg="Executing Filter  v5.1.2"
+time="21:21:45" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_CAD"
+time="21:21:45" level=info msg="Processing peptide identification files"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_13_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_17_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_16_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_30_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_10_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_6_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_5_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_8_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_28_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_19_140923090826_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_21_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_20_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_9_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_22_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_19_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_23_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_11_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_26_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_12_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_14_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_15_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_4_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_29_sub.pep.xml"
+time="21:21:46" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_22_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_24_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_2_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_27_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_7_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_18_sub.pep.xml"
+time="21:21:46" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_12_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_1_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_3_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_20_140923110456_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_21_140923130130_sub.pep.xml"
+time="21:21:46" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_4_sub.pep.xml"
+time="21:21:46" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_25_sub.pep.xml"
+time="21:21:46" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/GluC_CAD/GluC_CAD_2pass_results/GM12878_GluC_HCD/interact-GM12878_GluC_24_sub.pep.xml"
+time="21:21:46" level=info msg="1+ Charge profile" decoy=0 target=0
+time="21:21:46" level=info msg="2+ Charge profile" decoy=69 target=183
+time="21:21:46" level=info msg="3+ Charge profile" decoy=64 target=201
+time="21:21:46" level=info msg="4+ Charge profile" decoy=14 target=62
+time="21:21:46" level=info msg="5+ Charge profile" decoy=9 target=13
+time="21:21:46" level=info msg="6+ Charge profile" decoy=5 target=10
+time="21:21:46" level=info msg="Database search results" ions=464 peptides=446 psms=630
+time="21:21:46" level=info msg="Converged to 0.00 % FDR with 17 PSMs" decoy=0 threshold=0.863865 total=17
+time="21:21:46" level=info msg="Converged to 0.00 % FDR with 13 Peptides" decoy=0 threshold=0.863865 total=13
+time="21:21:46" level=info msg="Converged to 0.00 % FDR with 13 Ions" decoy=0 threshold=0.863865 total=13
+time="21:21:46" level=info msg="Protein inference results" decoy=1223 target=1436
+time="21:21:46" level=info msg="Converged to 0.00 % FDR with 20 Proteins" decoy=0 threshold=0.965 total=20
+time="21:21:46" level=info msg="Applying sequential FDR estimation" ions=6 peptides=6 psms=9
+time="21:21:46" level=info msg="Converged to 0.00 % FDR with 8 PSMs" decoy=0 threshold=0.871924 total=8
+time="21:21:46" level=info msg="Converged to 0.00 % FDR with 5 Peptides" decoy=0 threshold=0.900735 total=5
+time="21:21:46" level=info msg="Converged to 0.00 % FDR with 5 Ions" decoy=0 threshold=0.900735 total=5
+time="21:21:46" level=info msg="Post processing identifications"
+time="21:21:46" level=info msg="Assigning protein identifications to layers"
+time="21:21:46" level=info msg="Processing protein inference"
+time="21:21:47" level=info msg="Synchronizing PSMs and proteins"
+time="21:21:47" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=5 peptides=5 proteins=5 psms=8
+time="21:21:47" level=info msg=Saving
+time="21:21:47" level=info msg=Done

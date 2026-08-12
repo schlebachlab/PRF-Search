@@ -5,3 +5,11 @@ python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m v1201_multiS
 python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m v1201_multiSS_upstream_tmd_fs_pep_peptide2parent_all.tsv.gz --query possible_frameshift_peptides.txt --out possible_frameshift_peptides_classed_upstream_map.tsv --summary-out possible_frameshift_peptides_classed_summary_upstream_map.txt
 
 python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m v1201_multiSS_upstream_tmd_fs_pep_peptide2parent_all.tsv.gz --query all_peptides.txt --out all_peptides_classed_upstream_map.tsv --summary-out all_peptides_classed_summary_upstream_map.txt
+
+python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m v1211_multiSS_downstream_tmd_fs_pep_peptide2parent_all.tsv.gz --query possible_frameshift_peptides.txt --out possible_frameshift_peptides_classed.tsv --summary-out possible_frameshift_peptides_classed_summary.txt
+
+python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m v1211_multiSS_downstream_tmd_fs_pep_peptide2parent_all.tsv.gz --query all_peptides.txt --out all_peptides_classed.tsv --summary-out all_peptides_classed_summary.txt
+
+python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m v1211_multiSS_upstream_tmd_fs_pep_peptide2parent_all.tsv.gz --query possible_frameshift_peptides.txt --out possible_frameshift_peptides_classed_upstream_map.tsv --summary-out possible_frameshift_peptides_classed_summary_upstream_map.txt
+
+python fs_pep_utilities_script_updated_enz_rules_v17.py classify -m v1211_multiSS_upstream_tmd_fs_pep_peptide2parent_all.tsv.gz --query all_peptides.txt --out all_peptides_classed_upstream_map.tsv --summary-out all_peptides_classed_summary_upstream_map.txt

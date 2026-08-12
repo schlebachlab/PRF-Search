@@ -1,4 +1,4 @@
-database_name = /depot/bsdrown/data/Projects/Frameshifting/database/2026-06-22-decoys-contam-v1201_multiSS_upstream_tmd_fs_pep_all_full_length_chimeras.fa.fas			# Path to the protein database file in FASTA format.
+database_name = /depot/bsdrown/data/Projects/Frameshifting/database/2026-07-17-decoys-contam-v1211_multiSS_upstream_tmd_fs_pep_all_full_length_chimeras_no_all_zero_frame.fa.fas			# Path to the protein database file in FASTA format.
 num_threads = 32			# Number of CPU threads to use.
 
 precursor_mass_lower = -20			# Lower bound of the precursor mass window.

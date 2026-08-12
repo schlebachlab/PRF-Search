@@ -5,4 +5,4 @@ flag	value
 --psm	HepG2_GluC_ETD/psm.tsv
 --psm	K562_GluC_ETD/psm.tsv
 --psm	hESC_GluC_ETD/psm.tsv
---specdir	/scratch/negishi/afarzam/MSV000086944_results_v4/first_pass/GluC_ETD/GluC_ETD_23_1_results
+--specdir	/scratch/negishi/afarzam/MSV000086944_results_and_control_searches/first_pass/GluC_ETD/GluC_ETD_23_1_results

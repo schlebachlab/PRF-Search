@@ -6,10 +6,6 @@ upstream_search_downstream_map_classified_peptides |>
   group_by(category) |> 
   summarise(n = n())
 
-main_search_upstream_map_classified_peptides |> 
-  group_by(category) |> 
-  summarise(n = n())
-
 upstream_search_classified_peptides  |> 
   group_by(category) |> 
   summarise(n = n())
@@ -18,18 +14,12 @@ downstream_search_classified_peptides  |>
   group_by(category) |> 
   summarise(n = n())
 
-main_search_classified_peptides |> 
-  group_by(category) |> 
-  summarise(n = n())
-
 # gemini version of turning above summaries to a for loop to write summaries to file:
 tibble_names <- c(
   "downstream_search_upstream_map_classified_peptides",
   "upstream_search_downstream_map_classified_peptides",
-  "main_search_upstream_map_classified_peptides",
   "upstream_search_classified_peptides",
-  "downstream_search_classified_peptides",
-  "main_search_classified_peptides"
+  "downstream_search_classified_peptides"
 )
 
 # 2. Set your output file name
@@ -68,12 +58,11 @@ print(paste("Summaries successfully written to", output_file))
 # copilot version:
 # list of object names you want to summarize
 tbl_names <- c(
-  "downstream_search_upstream_map_classified_peptides",
-  "upstream_search_downstream_map_classified_peptides",
-  "main_search_upstream_map_classified_peptides",
   "upstream_search_classified_peptides",
+  "upstream_search_downstream_map_classified_peptides",
   "downstream_search_classified_peptides",
-  "main_search_classified_peptides"
+  "downstream_search_upstream_map_classified_peptides"
+
 )
 
 # output file
@@ -100,4 +89,14 @@ for (nm in tbl_names) {
   
   # blank line between sections
   write("\n", file = outfile, append = TRUE)
+  
+  # clean up environment
+  rm(nm)
+  rm(tbl)
+  rm(summary_tbl)
 }
+
+write_tsv(hits_both_streams, "./frameshift_and_transitional_peptides_both_streams.tsv")
+write_tsv(downstream_hits_reclassified, "./frameshift_transitional_peptides_downstream_crossmap.tsv")
+write_tsv(upstream_hits_reclassified, "./frameshift_transitional_peptides_upstream_crossmap.tsv")
+write_tsv(upstream_hits_in_downstream_search, "./frameshift_transitional_shared.tsv")

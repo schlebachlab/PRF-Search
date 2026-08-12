@@ -1,67 +1,78 @@
-time="01:06:30" level=info msg="Executing Filter  v5.1.2"
-time="01:06:30" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/GM12878_AspN_HCD"
-time="01:06:32" level=info msg="Processing peptide identification files"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr9_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr10_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr16_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr15_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr12_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr17_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr13_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr11_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr27_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr14_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr3_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr22_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr28_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr21_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr19_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr4_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr16_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr23_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr25_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr2_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr6_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr18_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr1_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr24_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr30_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr20_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr5_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr15_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr26_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr21_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr14_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr8_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr7_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr1_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr4_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr6_sub.pep.xml"
-time="01:06:32" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr29_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr3_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr8_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr2_sub.pep.xml"
-time="01:06:32" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr29_sub.pep.xml"
-time="01:06:32" level=info msg="1+ Charge profile" decoy=0 target=0
-time="01:06:32" level=info msg="2+ Charge profile" decoy=8 target=50
-time="01:06:32" level=info msg="3+ Charge profile" decoy=2 target=20
-time="01:06:32" level=info msg="4+ Charge profile" decoy=4 target=17
-time="01:06:32" level=info msg="5+ Charge profile" decoy=2 target=14
-time="01:06:32" level=info msg="6+ Charge profile" decoy=2 target=5
-time="01:06:32" level=info msg="Database search results" ions=102 peptides=92 psms=124
-time="01:06:32" level=info msg="Converged to 0.00 % FDR with 38 PSMs" decoy=0 threshold=0.703538 total=38
-time="01:06:32" level=info msg="Converged to 0.00 % FDR with 24 Peptides" decoy=0 threshold=0.703538 total=24
-time="01:06:32" level=info msg="Converged to 0.00 % FDR with 28 Ions" decoy=0 threshold=0.703538 total=28
-time="01:06:32" level=info msg="Protein inference results" decoy=484 target=1073
-time="01:06:32" level=info msg="Converged to 0.00 % FDR with 22 Proteins" decoy=0 threshold=0.9907 total=22
-time="01:06:32" level=info msg="Applying sequential FDR estimation" ions=9 peptides=5 psms=18
-time="01:06:32" level=info msg="Converged to 0.00 % FDR with 17 PSMs" decoy=0 threshold=0.714453 total=17
-time="01:06:32" level=info msg="Converged to 0.00 % FDR with 4 Peptides" decoy=0 threshold=0.78007 total=4
-time="01:06:32" level=info msg="Converged to 0.00 % FDR with 8 Ions" decoy=0 threshold=0.714453 total=8
-time="01:06:32" level=info msg="Post processing identifications"
-time="01:06:32" level=info msg="Assigning protein identifications to layers"
-time="01:06:33" level=info msg="Processing protein inference"
-time="01:06:33" level=info msg="Synchronizing PSMs and proteins"
-time="01:06:33" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=8 peptides=4 proteins=5 psms=17
-time="01:06:33" level=info msg=Saving
-time="01:06:33" level=info msg=Done
+time="08:12:14" level=info msg="Executing Filter  v5.1.2"
+time="08:12:14" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/GM12878_AspN_HCD"
+time="08:12:14" level=info msg="Processing peptide identification files"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr9_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr26_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr16_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr27_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr12_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr6_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr20_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr7_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr4_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr13_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr28_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr8_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr15_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr5_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr18_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr6_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr21_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr2_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr22_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr3_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr23_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr19_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr4_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr14_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr24_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr16_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr30_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr29_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr10_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr25_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr12_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr26_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr9_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr7_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr13_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr1_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr2_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr17_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr3_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr27_sub.pep.xml"
+time="08:12:14" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr11_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr8_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr19_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr15_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr14_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr21_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr22_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr30_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr29_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr1_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr10_sub.pep.xml"
+time="08:12:14" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/AspN_CAD/AspN_CAD_2pass_results/K562_AspN_HCD/interact-20160209_alr_CompleteHumanProteome_K562_AspN_HCD_fr11_sub.pep.xml"
+time="08:12:14" level=info msg="1+ Charge profile" decoy=0 target=0
+time="08:12:14" level=info msg="2+ Charge profile" decoy=5 target=18
+time="08:12:14" level=info msg="3+ Charge profile" decoy=1 target=3
+time="08:12:14" level=info msg="4+ Charge profile" decoy=0 target=5
+time="08:12:14" level=info msg="5+ Charge profile" decoy=1 target=5
+time="08:12:14" level=info msg="6+ Charge profile" decoy=0 target=5
+time="08:12:14" level=info msg="Database search results" ions=29 peptides=26 psms=43
+time="08:12:14" level=info msg="Converged to 0.00 % FDR with 23 PSMs" decoy=0 threshold=0.632887 total=23
+time="08:12:14" level=info msg="Converged to 0.00 % FDR with 9 Peptides" decoy=0 threshold=0.633699 total=9
+time="08:12:14" level=info msg="Converged to 0.00 % FDR with 11 Ions" decoy=0 threshold=0.633699 total=11
+time="08:12:14" level=info msg="Protein inference results" decoy=167 target=355
+time="08:12:14" level=info msg="Converged to 0.00 % FDR with 19 Proteins" decoy=0 threshold=0.9584 total=19
+time="08:12:14" level=info msg="Applying sequential FDR estimation" ions=5 peptides=3 psms=17
+time="08:12:14" level=info msg="Converged to 0.00 % FDR with 16 PSMs" decoy=0 threshold=0.633699 total=16
+time="08:12:14" level=info msg="Converged to 0.00 % FDR with 2 Peptides" decoy=0 threshold=0.969201 total=2
+time="08:12:14" level=info msg="Converged to 0.00 % FDR with 4 Ions" decoy=0 threshold=0.689362 total=4
+time="08:12:14" level=info msg="Post processing identifications"
+time="08:12:14" level=info msg="Assigning protein identifications to layers"
+time="08:12:14" level=info msg="Processing protein inference"
+time="08:12:15" level=info msg="Synchronizing PSMs and proteins"
+time="08:12:15" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=4 peptides=2 proteins=3 psms=16
+time="08:12:15" level=info msg=Saving
+time="08:12:15" level=info msg=Done

@@ -1,11 +1,11 @@
-Wrote 538 peptides to possible_frameshift_peptides_classed.tsv
+Wrote 378 peptides to possible_frameshift_peptides_classed.tsv
 
 Peptide-set summary:
 ------------------------------------
-frameshift_only                     :      7
-transitional_only                   :      3
-zero_frame_only                     :    514
+frameshift_only                     :      6
+transitional_only                   :     12
+zero_frame_only                     :    352
 transitional_and_frameshift         :      0
 zero_frame_with_frameshift_stop_only:      5
-mixture_with_zero_frame             :      9
+mixture_with_zero_frame             :      3
 not_found                           :      0

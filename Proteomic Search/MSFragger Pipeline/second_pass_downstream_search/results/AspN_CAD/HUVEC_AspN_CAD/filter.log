@@ -1,29 +1,29 @@
-time="14:48:54" level=info msg="Executing Filter  v5.1.2"
-time="14:48:54" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/AspN_CAD/AspN_CAD_2pass_results/GM12878_AspN_HCD"
-time="14:48:54" level=info msg="Processing peptide identification files"
-time="14:48:54" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/AspN_CAD/AspN_CAD_2pass_results/HUVEC_AspN_CAD/interact-20151228_alr_CompleteHumanProteome_HUVEC_CAD_AspN_2_sub.pep.xml"
-time="14:48:54" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/AspN_CAD/AspN_CAD_2pass_results/HUVEC_AspN_CAD/interact-20151228_alr_CompleteHumanProteome_HUVEC_CAD_AspN_1_sub.pep.xml"
-time="14:48:54" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/AspN_CAD/AspN_CAD_2pass_results/HUVEC_AspN_CAD/interact-20151228_alr_CompleteHumanProteome_HUVEC_CAD_AspN_1_sub.pep.xml"
-time="14:48:54" level=info msg="1+ Charge profile" decoy=0 target=0
-time="14:48:54" level=info msg="2+ Charge profile" decoy=0 target=0
-time="14:48:54" level=info msg="3+ Charge profile" decoy=0 target=1
-time="14:48:54" level=info msg="4+ Charge profile" decoy=0 target=0
-time="14:48:54" level=info msg="5+ Charge profile" decoy=0 target=0
-time="14:48:54" level=info msg="6+ Charge profile" decoy=0 target=0
-time="14:48:54" level=info msg="Database search results" ions=1 peptides=1 psms=1
-time="14:48:54" level=info msg="Converged to 0.00 % FDR with 0 PSMs" decoy=0 threshold=10 total=0
-time="14:48:54" level=info msg="Converged to 0.00 % FDR with 0 Peptides" decoy=0 threshold=10 total=0
-time="14:48:54" level=info msg="Converged to 0.00 % FDR with 0 Ions" decoy=0 threshold=10 total=0
-time="14:48:54" level=info msg="Protein inference results" decoy=316 target=663
-time="14:48:55" level=info msg="Converged to 0.00 % FDR with 8 Proteins" decoy=0 threshold=0.9921 total=8
-time="14:48:55" level=info msg="Applying sequential FDR estimation" ions=0 peptides=0 psms=0
-time="14:48:55" level=info msg="Converged to 0.00 % FDR with 0 PSMs" decoy=0 threshold=10 total=0
-time="14:48:55" level=info msg="Converged to 0.00 % FDR with 0 Peptides" decoy=0 threshold=10 total=0
-time="14:48:55" level=info msg="Converged to 0.00 % FDR with 0 Ions" decoy=0 threshold=10 total=0
-time="14:48:55" level=info msg="Post processing identifications"
-time="14:48:55" level=info msg="Assigning protein identifications to layers"
-time="14:48:55" level=info msg="Processing protein inference"
-time="14:48:55" level=info msg="Synchronizing PSMs and proteins"
-time="14:48:55" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=0 peptides=0 proteins=0 psms=0
-time="14:48:55" level=info msg=Saving
-time="14:48:55" level=info msg=Done
+time="17:45:56" level=info msg="Executing Filter  v5.1.2"
+time="17:45:56" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/AspN_CAD/AspN_CAD_2pass_results/GM12878_AspN_HCD"
+time="17:45:56" level=info msg="Processing peptide identification files"
+time="17:45:56" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/AspN_CAD/AspN_CAD_2pass_results/HUVEC_AspN_CAD/interact-20151228_alr_CompleteHumanProteome_HUVEC_CAD_AspN_2_sub.pep.xml"
+time="17:45:56" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/AspN_CAD/AspN_CAD_2pass_results/HUVEC_AspN_CAD/interact-20151228_alr_CompleteHumanProteome_HUVEC_CAD_AspN_1_sub.pep.xml"
+time="17:45:56" level=warning msg="No PSM was found in data set. /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/AspN_CAD/AspN_CAD_2pass_results/HUVEC_AspN_CAD/interact-20151228_alr_CompleteHumanProteome_HUVEC_CAD_AspN_1_sub.pep.xml"
+time="17:45:56" level=info msg="1+ Charge profile" decoy=0 target=0
+time="17:45:56" level=info msg="2+ Charge profile" decoy=0 target=2
+time="17:45:56" level=info msg="3+ Charge profile" decoy=1 target=2
+time="17:45:56" level=info msg="4+ Charge profile" decoy=0 target=0
+time="17:45:56" level=info msg="5+ Charge profile" decoy=0 target=1
+time="17:45:56" level=info msg="6+ Charge profile" decoy=0 target=0
+time="17:45:56" level=info msg="Database search results" ions=7 peptides=7 psms=7
+time="17:45:56" level=info msg="Converged to 0.00 % FDR with 6 PSMs" decoy=0 threshold=0.522548 total=6
+time="17:45:56" level=info msg="Converged to 0.00 % FDR with 6 Peptides" decoy=0 threshold=0.522548 total=6
+time="17:45:56" level=info msg="Converged to 0.00 % FDR with 6 Ions" decoy=0 threshold=0.522548 total=6
+time="17:45:56" level=info msg="Protein inference results" decoy=178 target=405
+time="17:45:56" level=info msg="Converged to 0.00 % FDR with 25 Proteins" decoy=0 threshold=0.9183 total=25
+time="17:45:56" level=info msg="Applying sequential FDR estimation" ions=1 peptides=1 psms=1
+time="17:45:56" level=info msg="Converged to 0.00 % FDR with 0 PSMs" decoy=0 threshold=10 total=0
+time="17:45:56" level=info msg="Converged to 0.00 % FDR with 0 Peptides" decoy=0 threshold=10 total=0
+time="17:45:56" level=info msg="Converged to 0.00 % FDR with 0 Ions" decoy=0 threshold=10 total=0
+time="17:45:56" level=info msg="Post processing identifications"
+time="17:45:56" level=info msg="Assigning protein identifications to layers"
+time="17:45:56" level=info msg="Processing protein inference"
+time="17:45:57" level=info msg="Synchronizing PSMs and proteins"
+time="17:45:57" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=0 peptides=0 proteins=0 psms=0
+time="17:45:57" level=info msg=Saving
+time="17:45:57" level=info msg=Done

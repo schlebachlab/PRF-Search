@@ -6,4 +6,4 @@ flag	value
 --psm	HepG2_AspN_HCD/psm.tsv
 --psm	K562_AspN_HCD/psm.tsv
 --psm	hESC_AspN_HCD/psm.tsv
---specdir	/scratch/negishi/afarzam/MSV000086944_results_v4/first_pass/AspN_CAD/AspN_CAD_23_1_results
+--specdir	/scratch/negishi/afarzam/MSV000086944_results_and_control_searches/first_pass/AspN_CAD/AspN_CAD_23_1_results

@@ -11,4 +11,4 @@ flag	value
 --psm	K562_Chymo_HCD/psm.tsv
 --psm	hESC_Chymo_CAD/psm.tsv
 --psm	hESC_Chymo_HCD/psm.tsv
---specdir	/scratch/negishi/afarzam/MSV000086944_results_v4/first_pass/Chymo_CAD/Chymo_CAD_23_1_results
+--specdir	/scratch/negishi/afarzam/MSV000086944_results_and_control_searches/first_pass/Chymo_CAD/Chymo_CAD_23_1_results

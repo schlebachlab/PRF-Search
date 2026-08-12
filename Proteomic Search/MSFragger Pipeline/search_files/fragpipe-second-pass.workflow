@@ -21,7 +21,7 @@
 
 # Please edit the following path to point to the correct location.
 # In Windows, please replace single '\' with '\\'
-database.db-path=/scratch/negishi/afarzam/deepseq_fragger_2pass/frameshift_database/2025-06-17-decoys-contam-motif_search_multiSS_v96_fs_pep_full_length_chimeras.fa.fas
+database.db-path=/depot/bsdrown/data/Projects/Frameshifting/database/2026-07-17-decoys-contam-v1211_multiSS_upstream_tmd_fs_pep_all_full_length_chimeras_no_all_zero_frame.fa.fas
 
 crystalc.run-crystalc=false
 database.decoy-tag=rev_

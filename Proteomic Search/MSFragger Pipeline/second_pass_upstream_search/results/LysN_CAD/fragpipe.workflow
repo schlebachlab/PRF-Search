@@ -21,7 +21,7 @@
 
 # Please edit the following path to point to the correct location.
 # In Windows, please replace single '\' with '\\'
-database.db-path=/depot/bsdrown/data/Projects/Frameshifting/database/2026-06-22-decoys-contam-v1201_multiSS_upstream_tmd_fs_pep_all_full_length_chimeras.fa.fas
+database.db-path=/depot/bsdrown/data/Projects/Frameshifting/database/2026-07-17-decoys-contam-v1211_multiSS_upstream_tmd_fs_pep_all_full_length_chimeras_no_all_zero_frame.fa.fas
 
 crystalc.run-crystalc=false
 database.decoy-tag=rev_
@@ -388,7 +388,7 @@ tmtintegrator.tolerance=20
 tmtintegrator.unique_gene=0
 tmtintegrator.unique_pep=false
 tmtintegrator.use_glycan_composition=false
-workdir=/scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/LysN_CAD/LysN_CAD_2pass_results
+workdir=/scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/LysN_CAD/LysN_CAD_2pass_results
 workflow.input.data-type.im-ms=false
 workflow.input.data-type.regular-ms=true
 workflow.misc.save-sdrf=true

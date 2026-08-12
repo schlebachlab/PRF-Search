@@ -1,60 +1,60 @@
-time="23:27:22" level=info msg="Executing Filter  v5.1.2"
-time="23:27:22" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878"
-time="23:27:22" level=info msg="Processing peptide identification files"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr9_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr15_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr19_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr2_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr35_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr17_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr24_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr21_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr22_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr5_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr32_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr16_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr7_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr1_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr30_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr18_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr23_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr13_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr11_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr33_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr12_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr27_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr31_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr34_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr28_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr25_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr20_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr3_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr10_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr26_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr29_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr14_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr4_sub.pep.xml"
-time="23:27:22" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_downstream/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr8_sub.pep.xml"
-time="23:27:26" level=info msg="1+ Charge profile" decoy=0 target=0
-time="23:27:26" level=info msg="2+ Charge profile" decoy=319 target=1138
-time="23:27:26" level=info msg="3+ Charge profile" decoy=105 target=578
-time="23:27:26" level=info msg="4+ Charge profile" decoy=20 target=111
-time="23:27:26" level=info msg="5+ Charge profile" decoy=2 target=8
-time="23:27:26" level=info msg="6+ Charge profile" decoy=2 target=4
-time="23:27:26" level=info msg="Database search results" ions=1898 peptides=1826 psms=2299
-time="23:27:26" level=info msg="Converged to 0.91 % FDR with 110 PSMs" decoy=1 threshold=0.947048 total=111
-time="23:27:26" level=info msg="Converged to 0.00 % FDR with 86 Peptides" decoy=0 threshold=0.953238 total=86
-time="23:27:26" level=info msg="Converged to 0.98 % FDR with 102 Ions" decoy=1 threshold=0.947048 total=103
-time="23:27:26" level=info msg="Protein inference results" decoy=3147 target=4830
-time="23:27:26" level=info msg="Converged to 0.74 % FDR with 137 Proteins" decoy=2 threshold=0.9946 total=139
-time="23:27:26" level=info msg="Applying sequential FDR estimation" ions=64 peptides=61 psms=72
-time="23:27:26" level=info msg="Converged to 0.00 % FDR with 71 PSMs" decoy=0 threshold=0.948687 total=71
-time="23:27:26" level=info msg="Converged to 0.00 % FDR with 60 Peptides" decoy=0 threshold=0.948687 total=60
-time="23:27:26" level=info msg="Converged to 0.00 % FDR with 63 Ions" decoy=0 threshold=0.948687 total=63
-time="23:27:26" level=info msg="Post processing identifications"
-time="23:27:26" level=info msg="Assigning protein identifications to layers"
-time="23:27:27" level=info msg="Processing protein inference"
-time="23:27:27" level=info msg="Synchronizing PSMs and proteins"
-time="23:27:27" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=61 peptides=58 proteins=46 psms=69
-time="23:27:27" level=info msg=Saving
-time="23:27:27" level=info msg=Done
+time="18:04:58" level=info msg="Executing Filter  v5.1.2"
+time="18:04:58" level=info msg="Fetching protein inference from /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878"
+time="18:04:59" level=info msg="Processing peptide identification files"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr12_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr29_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr9_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr34_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr11_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr1_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr35_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr19_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr7_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr5_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr20_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr16_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr21_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr3_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr10_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr17_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr8_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr24_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr28_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr33_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr22_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr4_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr13_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr25_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr18_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr15_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr26_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr2_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr27_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr23_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr14_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr31_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr30_sub.pep.xml"
+time="18:04:59" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_downstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/K562/interact-20160124_alr_CompleteHumanProteome_K562_trypsin_HCD_fr32_sub.pep.xml"
+time="18:05:01" level=info msg="1+ Charge profile" decoy=0 target=0
+time="18:05:01" level=info msg="2+ Charge profile" decoy=227 target=817
+time="18:05:01" level=info msg="3+ Charge profile" decoy=72 target=397
+time="18:05:01" level=info msg="4+ Charge profile" decoy=18 target=77
+time="18:05:01" level=info msg="5+ Charge profile" decoy=2 target=9
+time="18:05:01" level=info msg="6+ Charge profile" decoy=2 target=3
+time="18:05:01" level=info msg="Database search results" ions=1372 peptides=1317 psms=1633
+time="18:05:01" level=info msg="Converged to 0.00 % FDR with 66 PSMs" decoy=0 threshold=0.945281 total=66
+time="18:05:01" level=info msg="Converged to 0.00 % FDR with 56 Peptides" decoy=0 threshold=0.945281 total=56
+time="18:05:01" level=info msg="Converged to 0.00 % FDR with 58 Ions" decoy=0 threshold=0.945281 total=58
+time="18:05:01" level=info msg="Protein inference results" decoy=2132 target=3093
+time="18:05:01" level=info msg="Converged to 0.81 % FDR with 124 Proteins" decoy=1 threshold=0.9874 total=125
+time="18:05:02" level=info msg="Applying sequential FDR estimation" ions=48 peptides=46 psms=54
+time="18:05:02" level=info msg="Converged to 0.00 % FDR with 53 PSMs" decoy=0 threshold=0.947641 total=53
+time="18:05:02" level=info msg="Converged to 0.00 % FDR with 45 Peptides" decoy=0 threshold=0.950235 total=45
+time="18:05:02" level=info msg="Converged to 0.00 % FDR with 47 Ions" decoy=0 threshold=0.950235 total=47
+time="18:05:02" level=info msg="Post processing identifications"
+time="18:05:02" level=info msg="Assigning protein identifications to layers"
+time="18:05:02" level=info msg="Processing protein inference"
+time="18:05:02" level=info msg="Synchronizing PSMs and proteins"
+time="18:05:02" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=47 peptides=45 proteins=35 psms=53
+time="18:05:02" level=info msg=Saving
+time="18:05:02" level=info msg=Done

@@ -1,76 +1,76 @@
-time="13:56:36" level=info msg="Executing Filter  v5.1.2"
-time="13:56:36" level=info msg="Processing peptide identification files"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_11_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_9_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_14_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_26_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_34_140923102743_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_29_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_21_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_15_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_19_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_14_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_16_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_25_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_23_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_12_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_27_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_17_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_17_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_10_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_20_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_5_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_18_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_33_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_35_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_18_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_30_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_32_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_1_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_31_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_34_60K_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_3_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_32_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_4_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_3_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_5_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_34_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_24_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_11_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_19_140923141052_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_19_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_28_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_8_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_7_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_8_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_6_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_22_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_13_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_20_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_21_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_29_2_sub.pep.xml"
-time="13:56:37" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_v4/second_pass_upstream/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_24_sub.pep.xml"
-time="13:56:41" level=info msg="1+ Charge profile" decoy=0 target=0
-time="13:56:41" level=info msg="2+ Charge profile" decoy=550 target=2539
-time="13:56:41" level=info msg="3+ Charge profile" decoy=282 target=1592
-time="13:56:41" level=info msg="4+ Charge profile" decoy=77 target=636
-time="13:56:41" level=info msg="5+ Charge profile" decoy=31 target=59
-time="13:56:41" level=info msg="6+ Charge profile" decoy=12 target=27
-time="13:56:41" level=info msg="Database search results" ions=3782 peptides=3592 psms=5869
-time="13:56:41" level=info msg="Converged to 0.99 % FDR with 1419 PSMs" decoy=14 threshold=0.887186 total=1433
-time="13:56:41" level=info msg="Converged to 0.95 % FDR with 211 Peptides" decoy=2 threshold=0.951723 total=213
-time="13:56:41" level=info msg="Converged to 0.72 % FDR with 276 Ions" decoy=2 threshold=0.951723 total=278
-time="13:56:41" level=info msg="Protein inference results" decoy=4130 target=5996
-time="13:56:41" level=info msg="Converged to 0.97 % FDR with 310 Proteins" decoy=3 threshold=0.987 total=313
-time="13:56:41" level=info msg="Applying sequential FDR estimation" ions=336 peptides=254 psms=1270
-time="13:56:41" level=info msg="Converged to 0.00 % FDR with 1269 PSMs" decoy=0 threshold=0.887241 total=1269
-time="13:56:41" level=info msg="Converged to 0.00 % FDR with 253 Peptides" decoy=0 threshold=0.887832 total=253
-time="13:56:41" level=info msg="Converged to 0.00 % FDR with 335 Ions" decoy=0 threshold=0.887832 total=335
-time="13:56:41" level=info msg="Post processing identifications"
-time="13:56:41" level=info msg="Assigning protein identifications to layers"
-time="13:56:42" level=info msg="Processing protein inference"
-time="13:56:42" level=info msg="Synchronizing PSMs and proteins"
-time="13:56:42" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=335 peptides=253 proteins=118 psms=1269
-time="13:56:42" level=info msg=Saving
-time="13:56:42" level=info msg=Done
+time="03:34:47" level=info msg="Executing Filter  v5.1.2"
+time="03:34:47" level=info msg="Processing peptide identification files"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_10_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_9_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_25_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_18_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_14_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_20_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_24_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_26_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_17_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_24_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_20_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_19_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_21_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_29_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_22_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_34_60K_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_11_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_19_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_15_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_31_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_19_140923141052_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_28_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_13_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_23_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_17_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_11_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_16_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_1_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_18_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_21_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_12_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_27_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_29_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_30_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_14_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_32_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_32_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_5_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_34_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_35_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_33_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_3_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_34_140923102743_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_3_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_4_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_5_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_7_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_8_2_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_6_sub.pep.xml"
+time="03:34:47" level=info msg="Parsing /scratch/negishi/afarzam/MSV000086944_results_and_control_searches/second_pass_upstream_nozf/Trypsin_CAD/Trypsin_CAD_2pass_results/GM12878/interact-GM12878_trypsin_8_sub.pep.xml"
+time="03:34:49" level=info msg="1+ Charge profile" decoy=0 target=0
+time="03:34:49" level=info msg="2+ Charge profile" decoy=291 target=1192
+time="03:34:49" level=info msg="3+ Charge profile" decoy=131 target=589
+time="03:34:49" level=info msg="4+ Charge profile" decoy=44 target=124
+time="03:34:49" level=info msg="5+ Charge profile" decoy=17 target=18
+time="03:34:49" level=info msg="6+ Charge profile" decoy=5 target=13
+time="03:34:49" level=info msg="Database search results" ions=1871 peptides=1792 psms=2471
+time="03:34:49" level=info msg="Converged to 0.69 % FDR with 144 PSMs" decoy=1 threshold=0.970703 total=145
+time="03:34:49" level=info msg="Converged to 0.00 % FDR with 38 Peptides" decoy=0 threshold=0.994531 total=38
+time="03:34:49" level=info msg="Converged to 0.00 % FDR with 44 Ions" decoy=0 threshold=0.994531 total=44
+time="03:34:49" level=info msg="Protein inference results" decoy=2289 target=3300
+time="03:34:49" level=info msg="Converged to 0.54 % FDR with 184 Proteins" decoy=2 threshold=0.9812 total=186
+time="03:34:49" level=info msg="Applying sequential FDR estimation" ions=79 peptides=67 psms=136
+time="03:34:49" level=info msg="Converged to 0.74 % FDR with 134 PSMs" decoy=1 threshold=0.97175 total=135
+time="03:34:49" level=info msg="Converged to 0.00 % FDR with 38 Peptides" decoy=0 threshold=0.994531 total=38
+time="03:34:49" level=info msg="Converged to 0.00 % FDR with 44 Ions" decoy=0 threshold=0.994531 total=44
+time="03:34:49" level=info msg="Post processing identifications"
+time="03:34:49" level=info msg="Assigning protein identifications to layers"
+time="03:34:49" level=info msg="Processing protein inference"
+time="03:34:50" level=info msg="Synchronizing PSMs and proteins"
+time="03:34:50" level=info msg="Final report numbers after FDR filtering, and post-processing" ions=44 peptides=38 proteins=53 psms=134
+time="03:34:50" level=info msg=Saving
+time="03:34:50" level=info msg=Done
